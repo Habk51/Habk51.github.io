@@ -1,0 +1,1 @@
+==Học==, là để mưu [[docs/VLog/others/hạnh phúc|hạnh phúc]], nghĩa là để làm cho mình càng ngày càng mới, càng ngày càng cao, càng ngày càng rộng...Học, là tăng gia sự hiểu biết của mình, là mở rộng tâm hồn của mình bằng cách thu nhận sự hiểu biết cùng những kinh nghiệm của kẻ khác làm của mình. 

@@ -1,0 +1,134 @@
+site_name: "HAIHA'S BLOG"
+site_url: https://Habk51.github.io/
+
+site_description: HA'S BLOG
+site_author: haihabk51
+
+repo_url: https://github.com/Habk51/Habk51.github.io/
+
+
+
+theme:
+  name: material
+  icon:
+    logo: fontawesome/solid/lightbulb
+    favicon: assets/images/favicon.png  
+    previous: fontawesome/solid/angle-left  # Thêm biểu tượng điều hướng "previous"
+    next: fontawesome/solid/angle-right     # Thêm biểu tượng điều hướng "next"
+  font:
+    text: Open Sans
+    code: Roboto Mono
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: brown
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: black
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  
+
+features:
+  - search.suggest
+  - search.highlight
+  - navigation.footer
+  - content.action.view
+  - content.code.annotate
+  - content.code.copy
+  - content.code.select
+
+plugins:
+  - obsidian-interactive-graph
+  - search
+  - callouts
+  - embed_file
+  - obsidian-bridge
+  #- obsidian-support
+  - glightbox
+  - blogging:
+      dirs:
+        - post
+      template: overrides/custom-blog.html
+      features:
+        tags:
+          index_page: tags.md
+          insert: bottom
+      time_format: ' %d-%m-%Y '
+    
+      
+markdown_extensions:
+  - admonition
+  - attr_list
+  - codehilite
+  - md_in_html
+  - def_list
+  - sane_lists
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.escapeall
+  - footnotes
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/stylesheets/obsidian_tags.css
+  - assets/stylesheets/interactive_graph.css
+  - assets/stylesheets/embed_link.css
+  - stylesheets/extra.css
+  
+extra_javascript:
+  - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
+  - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
+  - assets/javascripts/interactive_graph.js
+  - assets/javascripts/obsidian_tags.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@nguyenhaihabk
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/hahtd3
+    - icon: fontawesome/solid/bookmark
+      link: https://substack.com/@nguyenhaiha
+    - icon: fontawesome/solid/globe
+      link: https://www.khoahocobsidian.com
+
+copyright: Copyright &copy; 2024 haihanguyen

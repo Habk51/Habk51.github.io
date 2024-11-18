@@ -1,0 +1,11 @@
+mkdocs-material
+mkdocs-blogging-plugin
+mkdocs-glightbox
+mkdocs-callouts
+mkdocs-autolinks-plugin
+mkdocs-embed-file-plugins
+mkdocs-obsidian-bridge
+mkdocs-obsidian-interactive-graph-plugin
+overrides
+markdown
+pymdown-extensions
