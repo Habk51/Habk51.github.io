@@ -1,0 +1,1 @@
+văn hóa là điều mà không thể truyền được mà cũng không thể tóm tắt lại được.
