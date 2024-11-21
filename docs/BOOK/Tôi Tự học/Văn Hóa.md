@@ -1,7 +1,9 @@
 ---
 title: Văn hóa
 aliases: 
-tags: 
+tags:
+  - BOOK
+  - Book_reading
 date: 
 share: 
 category:
