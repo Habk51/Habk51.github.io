@@ -1,6 +1,6 @@
 ---
-title: temp
-aliases:
+title: Thiên tài
+aliases: 
 tags:
   - NoneTag
 date: 

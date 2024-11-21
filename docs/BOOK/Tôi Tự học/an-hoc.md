@@ -1,6 +1,6 @@
 ---
-title: temp
-aliases:
+title: Học mà không hành thì có hại cho sức khỏe
+aliases: 
 tags:
   - NoneTag
 date: 

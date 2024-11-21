@@ -1,6 +1,6 @@
 ---
-title: temp
-aliases:
+title: Đánh giá con người qua học thức
+aliases: 
 tags:
   - NoneTag
 date: 

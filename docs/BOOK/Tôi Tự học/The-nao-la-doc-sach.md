@@ -1,6 +1,6 @@
 ---
-title: temp
-aliases:
+title: Thế nào là biết đọc sách.
+aliases: 
 tags:
   - NoneTag
 date: 
