@@ -1,3 +1,13 @@
+---
+title: temp
+aliases:
+tags:
+  - NoneTag
+date: 
+share: 
+category:
+---
+
 Đọc sách mà để giết thời giờ thì không có lợi gì cho tinh thần ta cả.
 
 Đọc sách mà biết vận dụng năng lực, nhận thức được ý kiến của mình so sánh với ý kiến dị đồng của tác giả, biết sắp đặt lại ký ức của mình...

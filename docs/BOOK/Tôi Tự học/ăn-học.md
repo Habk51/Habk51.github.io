@@ -1,3 +1,13 @@
+---
+title: temp
+aliases:
+tags:
+  - NoneTag
+date: 
+share: 
+category:
+---
+
 Ăn mà không tiêu thì ==có hại== cho sức khỏe. Học mà ==không hóa== thì có hại cho tinh thần.
 
 

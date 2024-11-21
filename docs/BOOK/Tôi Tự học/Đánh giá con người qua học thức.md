@@ -1,3 +1,12 @@
+---
+title: temp
+aliases:
+tags:
+  - NoneTag
+date: 
+share: 
+category:
+---
 
 Phần đông chúng ta thường đánh giá con người theo bằng cấp của họ, những bằng cấp ấy phần nhiều là bằng cấp trí nhớ; kẻ nào nhớ giỏi thì đậu. Sự nhận xét sai lầm này gây không biết bao tai họa cho loài người hiện thời
 
