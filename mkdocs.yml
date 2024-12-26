@@ -62,7 +62,7 @@ plugins:
           index_page: tags.md
           insert: bottom
       time_format: ' %d-%m-%Y '
-    
+      
       
 markdown_extensions:
   - admonition
