@@ -1,26 +1,21 @@
----
 
-### THÔNG TIN EBOOK 
-
-#### DÒNG CHẢY 
-
- Mihaly Csikszentmihalyi Huỳnh Hiếu Thuận Dịch Nhà Xuất Bản Dân Trí 
-
-More Books At **fb.com/groups/yeukindlevietnam** Notion Ebook Member **tinyurl.com/downloadebookyeukindle** 
-
----
-
----
-
----
 
 ### Mục lục 
 
-Lời nói đầu Chương 1: Hạnh phúc được xem xét lại Chương 2: Giải phẫu học về ý thức Chương 3: Sự thưởng thức và chất lượng cuộc sống Chương 4: Những điều kiện của trạng thái dòng chảy Chương 5: Cơ thể trong dòng chảy Chương 6: Dòng chảy của suy nghĩ Chương 7: Làm việc như dòng chảy Chương 8: Thưởng thức sự cô độc và mối quan hệ với người khác Chương 9: Đánh lừa sự hỗn loạn Chương 10: Tạo ra ý nghĩa Những bổ sung Nguồn tham khảo 
+Lời nói đầu 
+Chương 1: Hạnh phúc được xem xét lại 
+Chương 2: Giải phẫu học về ý thức 
+Chương 3: Sự thưởng thức và chất lượng cuộc sống 
+Chương 4: Những điều kiện của trạng thái dòng chảy 
+Chương 5: Cơ thể trong dòng chảy 
+Chương 6: Dòng chảy của suy nghĩ 
+Chương 7: Làm việc như dòng chảy 
+Chương 8: Thưởng thức sự cô độc và mối quan hệ với người khác
+Chương 9: Đánh lừa sự hỗn loạn 
+Chương 10: Tạo ra ý nghĩa Những bổ sung Nguồn tham khảo 
 
 ---
 
-# Q 
 
 ## Lời nói đầu 
 
@@ -42,11 +37,7 @@ người tôi vừa đề cập tới phải chịu trách nhiệm cho những g
 
 ---
 
-# C 
-
-## Chương 1 
-
-## Hạnh phúc được xem xét lại 
+# Chương 1  Hạnh phúc được xem xét lại 
 
 #### DẪN NHẬP 
 
@@ -248,11 +239,7 @@ chất lượng trải nghiệm. Bất kỳ lợi ích nhỏ nào theo định h
 
 ---
 
-# T 
-
-## Chương 2 
-
-## Giải phẫu học về ý thức 
+# Chương 2  Giải phẫu học về ý thức 
 
 ẠI NHỮNG THỜI ĐIỂM NHẤT ĐỊNH trong lịch sử, các nền văn hóa đã mặc định rằng một cá nhân không hoàn toàn được xem là con người trừ khi anh ta hoặc cô ta học được cách làm chủ các suy nghĩ và cảm xúc của mình. Ở đất nước Nho giáo như Trung Hoa, ở xứ Sparta cổ đại, ở Cộng hòa La Mã, ở cộng đồng người Pilgrim^13 và giữa những tầng lớp thượng lưu người Anh thời Victoria, con người phải chịu trách nhiệm kiểm soát chặt chẽ những cảm xúc của họ. Bất kỳ ai đắm chìm vào việc tự thương hại mình, để cho bản năng thay vì sự suy ngẫm chi phối hành động, đều sẽ bị tước quyền được chấp nhận như một thành viên của cộng đồng. Trong những thời kỳ lịch sử khác, chẳng hạn thời chúng ta đang sống, khả năng kiểm soát bản thân lại không được coi trọng. Những người nỗ lực làm điều đó bị cho là hơi ngớ ngẩn, “cứng nhắc”, hoặc không “linh động” cho lắm. Nhưng bất chấp những tiếng gọi của xu thế thời đại, dường như những người nỗ lực đạt được quyền làm chủ những gì diễn ra trong ý thức, đều sống một cuộc đời hạnh phúc hơn. Để đạt được khả năng làm chủ như vậy, rõ ràng việc hiểu biết ý thức hoạt động như thế nào là vô cùng quan trọng. Trong chương này, chúng ta sẽ tiến thêm một bước theo hướng này. Trước hết, để đánh tan bầu không khí hồ nghi rằng khi nói đến ý thức là chúng ta 
 
@@ -424,13 +411,7 @@ Dòng chảy quan trọng vì nó làm cho khoảnh khắc hiện tại thú v�
 
 ---
 
-# C 
-
-## Chương 3 
-
-## Sự thưởng thức và chất lượng cuộc 
-
-## sống 
+#  Chương 3  Sự thưởng thức và chất lượng cuộc sống 
 
 Ó HAI CHIẾN LƯỢC CHÍNH mà chúng ta có thể áp dụng để cải thiện chất lượng cuộc sống của mình. Một là, cố gắng thay đổi các điều kiện bên ngoài sao cho chúng tương thích với các mục tiêu của chúng ta. Hai là, thay đổi cách chúng ta trải nghiệm các điều kiện bên ngoài, để khiến chúng tương thích tốt hơn với các mục tiêu của chúng ta. Ví dụ, cảm giác an toàn là một thành tố quan trọng của hạnh phúc. Nó có thể được cải thiện bằng cách mang theo bên mình một vũ khí tự vệ, lắp những ổ khóa chắc chắn ở cửa trước, chuyển đến sống ở những khu dân cư an toàn hơn, gây áp lực chính trị cho hội đồng thành phố để được cảnh sát bảo vệ nghiêm ngặt hơn, hay giúp cộng đồng ý thức hơn về tầm quan trọng của trật tự dân sự. Tất thảy những cách phản ứng khác nhau này đều nhằm mục đích khiến các điều kiện môi trường tương thích hơn với các mục tiêu của chúng ta. Một cách thức khác giúp ta có thể cảm thấy an toàn hơn là điều chỉnh cách chúng ta hiểu về sự an toàn. Nếu ta không kỳ vọng sự an toàn tuyệt hảo, nếu ta nhận ra rằng các rủi ro tồn tại là điều hiển nhiên và nếu chúng ta có khả năng thưởng thức một thế giới ít dự đoán được, thì sự đe dọa của cảm giác bất an sẽ không có cơ hội hủy hoại niềm hạnh phúc. 
 
@@ -676,13 +657,7 @@ tiến hóa vượt trội hơn loài vượn. Như Democritus^21 từ nhiều t
 
 ---
 
-# C 
-
-## Chương 4 
-
-## Những điều kiện của trạng thái dòng 
-
-## chảy 
+# Chương 4  Những điều kiện của trạng thái dòng chảy 
 
 HÚNG TA ĐÃ THẤY CÁCH NGƯỜI TA MÔ TẢ những đặc tính phổ thông của trải nghiệm tối ưu: một cảm giác rằng kỹ năng của người đó là tương xứng để đương đầu với thử thách đang đối mặt, trong một hệ thống hành động có mục đích, có quy luật ràng buộc mà sẽ cung cấp những đầu mối rõ ràng về việc người đó thể hiện tốt như thế nào. Sự tập trung là cao độ đến mức không còn sự chú ý để nghĩ về những việc không liên quan, hay để trăn trở về những vấn đề khác nữa. Ý thức về cái tôi biến mất và cảm giác về thời gian bị bóp méo. Một hành động sản sinh ra những trải nghiệm như vậy khiến người ta hài lòng đến nỗi họ sẵn lòng thực hiện nó vì chính bản thân hành động, với rất ít bận tâm về những gì họ sẽ đạt được từ đó, ngay cả khi hành động có khó khăn hay nguy hiểm đi nữa. Nhưng những trải nghiệm như vậy diễn ra như thế nào? Thỉnh thoảng trạng thái dòng chảy có thể xuất hiện ngẫu nhiên, nhờ một sự trùng hợp may mắn của những điều kiện bên trong và bên ngoài. Chẳng hạn như, có thể một nhóm bạn dùng bữa tối cùng nhau và một người nào đó gợi lên một chủ đề liên quan đến mọi người trong cuộc đối thoại. Lần lượt từng người một bắt đầu nói đùa và kể những câu chuyện, chẳng bao lâu mọi người đều vui vẻ và cảm thấy tốt về 
 
@@ -874,9 +849,7 @@ hạnh phúc cá nhân: “Dần dần, tôi đã học được cách dửng d�
 
 ---
 
-## Chương 5 
-
-## Cơ thể trong dòng chảy 
+# Chương 5 Cơ thể trong dòng chảy 
 
 “MỘT NGƯỜI KHÔNG SỞ HỮU THỨ GÌ CẢ chắc chắn tiết kiệm được một khoản vay mượn nhỏ của thân xác anh ta trong cuộc đời này”, J. B. Cabell đã viết, “nhưng cơ thể con người có khả năng chứa đựng nhiều điều thú vị lạ lùng^36 ”. Khi chúng ta không vui vẻ, suy sụp, hay chán nản, chúng ta có trong tay một phương thức cải thiện hữu hiệu: sử dụng cơ thể của mình hết mức có thể. Ngày nay, hầu hết mọi người đều nhận thức được tầm quan trọng của sức khỏe và thể lực. Thế nhưng, tiềm năng thưởng thức cuộc sống gần như không giới hạn mà cơ thể có thể tạo ra vẫn chưa được khai thác. Vài người luyện tập để chuyển động với sự uyển chuyển của một vận động viên nhào lộn, để nhìn mọi thứ dưới đôi mắt tươi mới của một nghệ sĩ, để cảm nhận niềm vui của một vận động viên điền kinh vừa phá vỡ kỷ lục của chính mình, để nếm thức ăn với khẩu vị tinh tế của một người sành sỏi, hay để yêu với kỹ năng nâng tầm tình dục thành một loại hình nghệ thuật. Bởi vì những cơ hội như thế là dễ dàng tiếp cận, nên bước đơn giản nhất để hướng đến việc cải thiện chất lượng cuộc sống nằm ở việc học cách kiểm soát cơ thể và các giác quan của nó. Các nhà khoa học thỉnh thoảng tự tiêu khiển bằng cách cố gắng tìm ra xem cơ thể một con người có thể đáng giá bao nhiêu. Các 
 
@@ -1072,11 +1045,8 @@ bị cảm biến chúng cũng đều sản sinh ra một cảm giác tích cự
 
 ---
 
-# N 
 
-## Chương 6 
-
-## Dòng chảy của suy nghĩ 
+# Chương 6  Dòng chảy của suy nghĩ 
 
 HỮNG ĐIỀU TỐT ĐẸP TRONG CUỘC SỐNG không chỉ đến thông qua các giác quan. Một số trải nghiệm hưng phấn nhất chúng ta từng trải qua được tạo ra trong tâm trí, kích hoạt bởi những thông tin thử thách khả năng tư duy của chúng ta, thay vì từ việc sử dụng các kỹ năng của các giác quan. Như ngài Francis Bacon^44 đã lưu ý gần bốn trăm năm trước, sự phản tư – hạt mầm của tri thức – là sự phản ánh của dạng thức khoái cảm thuần túy nhất. Giống như các hoạt động dòng chảy tương ứng với mọi tiềm năng thể chất của cơ thể, mọi hoạt động trí óc cũng đều có thể cung cấp trải nghiệm thưởng thức riêng biệt của chúng. Trong số nhiều hoạt động trí óc sẵn có, đọc sách có lẽ là hoạt động dòng chảy được nhắc đến nhiều nhất trên toàn thế giới. Giải câu đố trí tuệ, một hình thức hoạt động mang tính thưởng thức lâu đời nhất, là tiền thân của cả triết học lẫn khoa học hiện đại. Một số cá nhân đã trở nên thành thạo trong việc diễn giải các ký hiệu âm nhạc đến mức họ không cần phải nghe các nốt nhạc thực sự được xướng lên mà vẫn thưởng thức được một bản nhạc, họ ưa thích việc đọc bản ký âm của một khúc giao hưởng để “nghe” nó trong tâm trí. Những âm thanh tưởng tượng nhảy múa trong tâm trí họ hoàn hảo hơn bất kỳ màn trình diễn thực tế nào. Tương tự vậy, những người 
 
@@ -1294,11 +1264,7 @@ Lời trích dẫn đã có tuổi đời khoảng hai mươi bốn thế kỷ, 
 
 ---
 
-# G 
-
-## Chương 7 
-
-## Làm việc như dòng chảy 
+# Chương 7 Làm việc như dòng chảy 
 
 IỐNG NHƯ MỌI LOÀI ĐỘNG VẬT KHÁC, chúng ta phải dành phần lớn thời gian tồn tại của mình cho cuộc mưu sinh. Lượng calo cần để cung cấp cho cơ thể không tự nhiên xuất hiện một cách thần kỳ trên bàn ăn và nhà cửa hay xe cộ cũng không tự tụ tập quanh mình. Tuy nhiên, không có một công thức chính xác nào cho việc con người thật sự phải làm việc trong bao lâu. Chẳng hạn, có vẻ như những người săn bắt, hái lượm thuở sơ khai, cũng như những hậu duệ của họ ngày nay sống ở những sa mạc khắc nghiệt tại châu Phi và châu Úc, chỉ dành từ ba đến năm tiếng mỗi ngày cho những việc mà chúng ta gọi là làm việc – chuẩn bị miếng ăn, chỗ ở, cái mặc và đồ dùng. Họ dành phần còn lại trong ngày cho những cuộc trò chuyện, nghỉ ngơi, hay nhảy múa. Ở thái cực ngược lại là những công nhân công nghiệp của thế kỷ XIX, những người thường buộc phải dành mười hai giờ mỗi ngày, sáu ngày mỗi tuần để làm việc vất vả trong các nhà máy khắc nghiệt hay những khu mỏ nguy hiểm. Không chỉ khối lượng mà chất lượng của công việc cũng vô cùng đa dạng. Một ngạn ngữ cổ của Ý đã nói thế này: “Il lavoro nobilita I’uomo, e lo rende simile alle bestie”, nghĩa là: “Công việc trao cho một người đàn ông sự cao quý và rồi biến anh ta thành một con vật”. Phép tu từ đầy mỉa mai này có thể là một lời bình luận về bản 
 
@@ -1470,13 +1436,7 @@ kỹ năng dẫn đến sự phát triển; còn những phương pháp giải t
 
 ---
 
-# C 
-
-## Chương 8 
-
-## Thưởng thức sự cô độc và mối quan 
-
-## hệ với người khác 
+#  Chương 8  Thưởng thức sự cô độc và mối quan hệ với người khác 
 
 ÁC NGHIÊN CỨU VỀ DÒNG CHẢY đã tái chứng minh nhiều lần rằng, hơn bất cứ điều gì khác, chất lượng cuộc sống phụ thuộc vào hai yếu tố: cách chúng ta trải nghiệm công việc và cách chúng ta trải nghiệm mối quan hệ với người khác. Thông tin chi tiết nhất cho biết chúng ta là ai với tư cách cá nhân đến từ những người chúng ta giao tiếp và từ cách chúng ta hoàn thành công việc. Bản ngã của chúng ta phần lớn được xác định bởi những gì xảy ra trong hai bối cảnh đó, như Freud đã nhận ra trong giả định của ông rằng “tình yêu và công việc” là nguồn cơn của hạnh phúc. Chương vừa rồi đã xem xét một số tiềm năng của công việc; còn ở chương này, chúng ta sẽ khám phá mối quan hệ với gia đình và bạn bè, để xác định làm thế nào chúng có thể trở thành nguồn trải nghiệm mang tính thưởng thức. Việc chúng ta có tương tác tốt với người khác hay không sẽ tạo ra một sự khác biệt lớn đối với chất lượng của trải nghiệm. Chúng ta được lập trình về mặt sinh học để tìm kiếm người khác như là những đối tượng quan trọng nhất trên đời. Bởi vì họ có thể làm cho cuộc sống trở nên rất thú vị và viên mãn hoặc hoàn toàn đau khổ, nên cách chúng ta quản lý các mối quan hệ với họ tạo ra một sự khác 
 
@@ -1706,11 +1666,7 @@ hưởng nhiều nhất có thể những khía cạnh của cuộc đời họ 
 
 ---
 
-# M 
-
-## Chương 9 
-
-## Đánh lừa sự hỗn loạn 
+# Chương 9 Đánh lừa sự hỗn loạn 
 
 ặc dù đến lúc này mọi thứ đã được trình bày rất rõ ràng, nhưng một số người có thể vẫn nghĩ rằng, người ta ắt hẳn dễ dàng cảm thấy hạnh phúc chừng nào họ còn đủ may mắn để khỏe mạnh, giàu có và xinh đẹp. Nhưng làm thế nào để chất lượng cuộc sống có thể được cải thiện khi mọi thứ không diễn ra theo ý ta muốn, hay khi vận may không công bằng với chúng ta? Người ta có thể đủ sức suy nghĩ về sự khác biệt giữa sự thưởng thức và sự khoái lạc nếu họ không phải lo lắng đến việc cạn tiền mỗi cuối tháng. Đối với đa số mọi người, sự phân biệt như thế là quá xa xỉ để có thể nghĩ tới. Bạn có thể nghĩ về các thử thách và sự phức tạp nếu bạn có một công việc thú vị, được trả lương cao, nhưng tại sao lại phải cố gắng cải thiện một công việc mà về cơ bản đã ngớ ngẩn và tàn bạo? Và làm sao mà chúng ta có thể mong chờ những người bị bệnh, túng thiếu, hay bị vận đen đeo đuổi kiểm soát được ý thức của họ? Chắc chắn họ sẽ cần phải cải thiện những điều kiện vật chất cụ thể trước khi trải nghiệm dòng chảy có thể thêm bất cứ thứ gì đáng giá vào chất lượng cuộc sống của họ. Nói cách khác, trải nghiệm tối ưu nên được xem là lớp phủ đường trên chiếc bánh kem được làm từ những nguyên liệu bền chắc như sức khỏe và sự sung túc; còn tự nó chỉ là một thứ nguyên liệu trang trí mỏng manh. Chỉ với một nền tảng 
 
@@ -1904,11 +1860,7 @@ Nhưng để thay đổi tất cả sự tồn tại trở thành trải nghiệ
 
 ---
 
-# K 
-
-## Chương 10 
-
-## Tạo ra ý nghĩa 
+#  Chương 10  Tạo ra ý nghĩa 
 
 HÔNG CÓ GÌ LẠ khi những tay quần vợt nổi tiếng luôn cam kết sâu sắc với trò chơi của họ, thưởng thức niềm vui thích khi chơi nhưng lại rời khỏi sân đấu trong tâm trạng ủ rũ và hằn học. Picasso thưởng thức việc vẽ tranh, nhưng ngay khi đặt cọ vẽ xuống, ông biến thành một người đàn ông khá khó chịu. Bobby Fischer, thiên tài cờ vua, dường như luôn bơ vơ lạc lõng ngoại trừ lúc tâm trí của ông đặt vào cờ vua. Những trường hợp này và vô số ví dụ tương tự là một lời nhắc nhở rằng việc đã đạt được trạng thái dòng chảy trong một hoạt động không nhất thiết đảm bảo rằng nó sẽ được lan tỏa sang phần còn lại của cuộc sống. Nếu chúng ta thưởng thức được công việc và tình bạn, và đối diện được với mọi thử thách như là một cơ hội để phát triển các kỹ năng mới, chúng ta sẽ nhận được những phần thưởng từ cuộc sống vốn nằm ngoài địa hạt cuộc đời bình thường. Tuy nhiên, ngay cả điều này cũng không đủ để đảm bảo cho chúng ta đạt được trải nghiệm tối ưu. Chừng nào sự thưởng thức theo sau từng hoạt động không được liên kết với nhau theo một cách có ý nghĩa, thì người ta vẫn dễ bị tổn thương bởi tính bất định của sự hỗn loạn. Ngay cả sự nghiệp thành công nhất, mối quan hệ gia đình thắm thiết nhất, cuối cùng cũng trở nên cạn kiệt. Sớm hay muộn, sự dấn thân vào công 
 
@@ -2126,11 +2078,7 @@ từng có của nhân loại để xây dựng cũng như hủy hoại môi tr�
 
 ---
 
-# Đ 
-
-## Những bổ sung 
-
-#### DÒNG CHẢY CỦA SỰ SÁNG TẠO 
+#  Những bổ sung DÒNG CHẢY CỦA SỰ SÁNG TẠO 
 
 oạn dưới đây được trích từ cuốn Creativity: Flow and the Psychology of Discovery and Invention của Mihaly Csikszentmihalyi (HarperCollins, 1996). Người sáng tạo khác biệt so với người khác theo nhiều cách khác nhau, nhưng có một phương diện mà tất cả họ cùng nhất trí: Họ đều yêu thích những gì mình làm. Không phải niềm hy vọng đạt thành danh tiếng hay tiền bạc đang thúc đẩy họ, đúng hơn là, cái thúc đẩy họ là cơ hội được làm những gì mình yêu thích. Jacob Rabinow giải thích: “Chúng ta sáng tạo vì niềm vui. Tôi không bắt đầu với ý nghĩ ‘Việc gì kiếm ra tiền?’ Đây là một thế giới khắc nghiệt; tiền bạc là quan trọng. Nhưng nếu tôi phải chọn giữa việc khiến mình vui và việc làm ra tiền, tôi sẽ chọn việc khiến mình vui”. Tiểu thuyết gia Naguib Mahfouz tán thành điều này bằng giọng điệu nhẹ nhàng hơn: “Tôi yêu việc mình làm nhiều hơn yêu sản phẩm mà nó tạo ra. Tôi tận hiến cho công việc bất chấp kết quả của nó là gì”. Chúng tôi cũng đã tìm thấy những cảm nghĩ tương tự trong từng đợt phỏng vấn. Điều đặc biệt trong trường hợp này là chúng tôi đã trò chuyện với các kỹ sư và nhà hóa học, các nhà văn và nhạc sĩ, các doanh nhân và nhà cải cách xã hội, các sử gia và kiến trúc sư, các nhà xã 
 
@@ -2548,9 +2496,7 @@ nỗ lực cho thấy rằng khái niệm vẫn có thể đúng, xem Burhoe (19
 
 ---
 
-# A 
-
-## Nguồn tham khảo 
+# Nguồn tham khảo 
 
 ch, N. 1905. Über die Willenstätigkeit und das Denkens. Göttingen: Vandenhoeck & Ruprecht. Adler, A. 1956. The individual psychology of Alfred Adler. New York: Basic Books. Adler, M. J. 1956. Why only adults can be educated. In Great issues in education. Chicago: Great Books Foundation. Ainsworth, M. D. S., Bell, S. M., & Stayton, D. J. 1971. Individual differences in strange -situation behavior of one-year-olds. In H. R. Schaffer, ed., The origins of human social relations. London: Academic Press. Ainsworth, M., Blehar, M., Waters, E., & Wall, S. 1978. Patterns of attachment. Hillsdale, N.J.: Erlbaum. Alexander, R. D. 1974. The evolution of social behavior. Annual Review of Ecology and Systematics 5:325–83. ——. 1979. Evolution and culture. In N. A. Chagnon & W. Irons, eds., Evolutionary biology and human social behavior: An anthropological perspective (pp. 59–78). North Scituate, Mass.: Duxbury Press. ——. 1987. The biology of moral systems. New York: Aldine de Guyter. Allison, M. T., & Duncan, M. C. 1988. Women, work, and flow. In M. Csikszentmihalyi & I. S. Csikszentmihalyi, eds., Optimal 
 
