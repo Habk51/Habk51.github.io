@@ -3,15 +3,25 @@
 ### Mục lục 
 
 Lời nói đầu 
+
 Chương 1: Hạnh phúc được xem xét lại 
+
 Chương 2: Giải phẫu học về ý thức 
+
 Chương 3: Sự thưởng thức và chất lượng cuộc sống 
+
 Chương 4: Những điều kiện của trạng thái dòng chảy 
+
 Chương 5: Cơ thể trong dòng chảy 
+
 Chương 6: Dòng chảy của suy nghĩ 
+
 Chương 7: Làm việc như dòng chảy 
+
 Chương 8: Thưởng thức sự cô độc và mối quan hệ với người khác
+
 Chương 9: Đánh lừa sự hỗn loạn 
+
 Chương 10: Tạo ra ý nghĩa Những bổ sung Nguồn tham khảo 
 
 ---
@@ -19,7 +29,7 @@ Chương 10: Tạo ra ý nghĩa Những bổ sung Nguồn tham khảo
 
 ## Lời nói đầu 
 
-QUYỂN SÁCH NÀY được viết dành cho độc giả phổ thông, <font color="#245bdb">nhằm tóm lược nhiều thập kỷ nghiên cứu về những khía cạnh tích cực trong trải nghiệm của con người </font>– niềm vui, sự sáng tạo và tiến trình hòa mình trọn vẹn vào cuộc sống –<span style="background:rgba(240, 167, 216, 0.55)"> mà tôi gọi là trạng thái dòng chảy.</span> Bước đi này có đôi chút mạo hiểm, vì ngay khi bước ra khỏi những quy chuẩn đặc thù của văn xuôi học thuật, người ta dễ trở nên cẩu thả hoặc sa vào sự nhiệt tình thái quá đối với một chủ đề như thế này. Tuy vậy, những nội dung sau đây không hề là một quyển sách phổ thông chỉ đưa ra các thủ thuật hay bí quyết của những người trong cuộc về cách có được hạnh phúc. Làm thế, là không khả thi trong bất kỳ trường hợp nào, khi mà một cuộc sống vui tươi, tốt đẹp là một tạo tác mang tính cá nhân, vốn không thể sao chép từ một công thức. Thay vào đó, quyển sách này nỗ lực trình bày những nguyên tắc chung, cùng với các ví dụ cụ thể về cách thức mà một số người đã sử dụng các nguyên tắc ấy, để biến đổi những cuộc đời nhàm chán và vô nghĩa trở thành cuộc sống tràn đầy niềm vui và sự thưởng thức. Sẽ chẳng có lời hứa hẹn nào về những lối đi tắt dễ dàng trong những trang sách này. Nhưng đối với những độc giả quan tâm đến những điều như vậy, sẽ vẫn có đủ thông tin cần thiết để giúp việc áp dụng lý thuyết vào thực hành trở nên khả thi. 
+QUYỂN SÁCH NÀY được viết dành cho độc giả phổ thông, <font color="#245bdb">nhằm tóm lược nhiều thập kỷ nghiên cứu về những khía cạnh tích cực trong trải nghiệm của con người </font>– niềm vui, sự sáng tạo và tiến trình hòa mình trọn vẹn vào cuộc sống –<span style="background:rgba(240, 167, 216, 0.55)"> mà tôi gọi là trạng thái dòng chảy.</span> Bước đi này có đôi chút mạo hiểm, vì ngay khi bước ra khỏi những quy chuẩn đặc thù của văn xuôi học thuật, người ta dễ trở nên cẩu thả hoặc sa vào sự nhiệt tình thái quá đối với một chủ đề như thế này. Tuy vậy, những nội dung sau đây không hề là một quyển sách phổ thông chỉ đưa ra các thủ thuật hay bí quyết của những người trong cuộc về cách có được hạnh phúc. Làm thế, là không khả thi trong bất kỳ trường hợp nào, khi mà<span style="background:rgba(240, 167, 216, 0.55)"> một cuộc sống vui tươi, tốt đẹp là một tạo tác mang tính cá nhân,</span> <span style="background:rgba(205, 244, 105, 0.55)">vốn không thể sao chép từ một công thức</span>. Thay vào đó, quyển sách này nỗ lực trình bày những nguyên tắc chung, cùng với các <span style="background:rgba(240, 167, 216, 0.55)">ví dụ cụ thể </span>về cách thức mà một số người đã sử dụng các nguyên tắc ấy, <span style="background:rgba(240, 167, 216, 0.55)">để biến đổi những cuộc đời nhàm chán và vô nghĩa trở thành cuộc sống tràn đầy niềm vui và sự thưởng thức</span>. Sẽ chẳng có lời hứa hẹn nào về những lối đi tắt dễ dàng trong những trang sách này. Nhưng đối với những độc giả quan tâm đến những điều như vậy, sẽ vẫn có đủ thông tin cần thiết để giúp việc áp dụng lý thuyết vào thực hành trở nên khả thi. 
 
 ---
 
