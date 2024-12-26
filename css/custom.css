@@ -1,0 +1,16 @@
+﻿/* Đảm bảo vùng nội dung chính mở rộng hết màn hình */
+.md-container {
+    max-width: 100% !important; /* Mở rộng container chính */
+    padding: 0 !important;      /* Loại bỏ khoảng cách bên */
+}
+
+/* Điều chỉnh sidebar */
+.md-sidebar {
+    max-width: 15% !important; /* Sidebar trái chiếm tối đa 15% */
+}
+
+/* Điều chỉnh nội dung chính */
+.md-content {
+    max-width: 85% !important; /* Nội dung chính chiếm 85% */
+    margin: 0 auto !important; /* Căn giữa nội dung */
+}
