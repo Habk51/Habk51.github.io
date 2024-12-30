@@ -16,13 +16,13 @@ Releated:
 
 ## 1. copy file extra.css
 
-![](https://i.imgur.com/ltCp0Mz.png)
+![](https://i.imgur.com/ltCp0Mz.png#center)
 ## 2. thêm mục extra.css vào file mkdocs.yml
-![](https://i.imgur.com/m2F6jjT.png)
+![](https://i.imgur.com/m2F6jjT.png#center)
 
 
 ## 3. Trên note thì  thêm  #center vào 
-![](https://i.imgur.com/o1Lz68m.png)
+![](https://i.imgur.com/o1Lz68m.png#center)
 
 
 ### [Nguồn tham khảo](https://github.com/squidfunk/mkdocs-material/issues/748)
