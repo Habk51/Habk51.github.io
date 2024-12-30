@@ -112,7 +112,6 @@ extra_css:
   - assets/stylesheets/obsidian_tags.css
   - assets/stylesheets/interactive_graph.css
   - assets/stylesheets/embed_link.css
-  - stylesheets/extra.css
   - assets/stylesheets/custom.css
   
 extra_javascript:
