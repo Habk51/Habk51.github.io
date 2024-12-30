@@ -10,7 +10,9 @@ author:
 Releated:
 ---
 
- # Bực bội với cái ảnh nằm không đúng center?
+> [!NOTE] # Bực bội với cái ảnh nằm không đúng center?
+>  
+> 
 
 đã có cách khắc phục
 
