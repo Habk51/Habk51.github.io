@@ -1,7 +1,7 @@
 ---
-title: cách xóa khoảng trắng lề của mkdocs
+title: Cách xóa khoảng trắng lề của mkdocs
 aliases:
-  - cách xóa khoảng trắng lề của mkdocs
+  - Cách xóa khoảng trắng lề của mkdocs
 tags:
   - mkdocs
 date: 
@@ -10,7 +10,7 @@ author:
 Releated:
 ---
 
-> [!NOTE] # xóa khoảng trắng ở lề mkdocs
+## > [!NOTE]  Xóa khoảng trắng ở lề mkdocs
 
 
 ![](https://i.imgur.com/qKzHywJ.png)
