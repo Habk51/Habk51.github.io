@@ -19,6 +19,14 @@ Releated:
 ## 1. copy file extra.css
 
 ![](https://i.imgur.com/ltCp0Mz.png#center)
+### Đây là code của css
+```
+img[src*="#center"] {
+    display: block;
+    margin: 0 auto;
+}
+```
+
 ## 2. thêm mục extra.css vào file mkdocs.yml
 ![](https://i.imgur.com/m2F6jjT.png#center)
 
