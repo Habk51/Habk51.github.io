@@ -7,7 +7,7 @@
   }
   .md-sidebar--secondary {
     right: 0;
-    margin-left: 0;
+    margin-left: 30;
     -webkit-transform: none;
     transform: none;   
   }
