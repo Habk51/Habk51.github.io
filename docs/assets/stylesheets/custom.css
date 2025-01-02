@@ -3,11 +3,11 @@
     max-width: none;
   }
   .md-sidebar--primary {
-    left: 20;
+    left: 20px;
   }
   .md-sidebar--secondary {
     right: 0;
-    margin-left: 30;
+    margin-left: 30px;
     -webkit-transform: none;
     transform: none;   
   }
