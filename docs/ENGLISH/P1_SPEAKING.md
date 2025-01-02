@@ -55,8 +55,8 @@ Releated:
 
 **Ví dụ trả lời:**
 
-- _I prefer e-books to paper books. In fact, they are lighter and more portable, so I can carry hundreds of books on my device. Besides, e-books are usually cheaper, which is great for students like me._
-
+- _I prefer e-books to paper books. In fact, they are lighter and more portable, so I can carry ==hundreds of books== on my device. Besides, e-books are usually cheaper, which is great for students like me._
+[[phân biệt hundreds of books và a hundred of book]]
 **Từ vựng gợi ý:**
 
 - E-books: sách điện tử
