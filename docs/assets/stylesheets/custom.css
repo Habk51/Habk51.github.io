@@ -1,13 +1,15 @@
 ﻿@media only screen and (min-width: 76.25em) {
   .md-main__inner {
-    max-width: none;
+    max-width: 80%; /* Giảm kích thước khung nhìn ở giữa */
+    margin-left: 300px; /* Đẩy khung nhìn sang phải để nhường chỗ cho sidebar */
   }
   .md-sidebar--primary {
-    left: 20px;
+    width: 300px; /* Tăng kích thước sidebar bên trái */
+    left: 0; /* Giữ sidebar sát mép trái */
   }
   .md-sidebar--secondary {
-    right: 0;
-    margin-left: 30px;
+    right: 0; /* Sidebar phụ vẫn sát mép phải */
+    margin-left: 0; /* Loại bỏ khoảng cách không cần thiết */
     -webkit-transform: none;
     transform: none;   
   }
