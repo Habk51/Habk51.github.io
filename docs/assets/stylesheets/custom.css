@@ -1,17 +1,16 @@
 ﻿@media only screen and (min-width: 76.25em) {
   .md-main__inner {
-    max-width: 70%; /* Giảm chiều rộng của khung nhìn ở giữa */
-    margin-left: 350px; /* Dịch khung nhìn sang phải để nhường chỗ cho sidebar lớn hơn */
+    max-width: 75%; /* Tăng diện tích khung nội dung chính */
+    margin-left: 250px; /* Cân chỉnh khoảng cách với sidebar nhỏ hơn */
   }
   .md-sidebar--primary {
-    width: 350px; /* Tăng chiều rộng sidebar bên trái */
-    left: 0; /* Giữ sidebar sát mép trái */
+    width: 250px; /* Giảm chiều rộng sidebar bên trái */
+    left: 0; /* Đặt sát mép trái */
   }
   .md-sidebar--secondary {
-    right: 0; /* Sidebar phụ sát mép phải */
-    margin-left: 0; /* Không có khoảng cách thừa */
+    right: 0; /* Sidebar bên phải vẫn sát mép phải */
+    margin-left: 0;
     -webkit-transform: none;
     transform: none;
   }
 }
-
