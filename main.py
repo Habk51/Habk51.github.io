@@ -2,11 +2,10 @@ import os
 import frontmatter
 from datetime import datetime
 
-# Hàm macro để tạo danh sách các bài viết
 def define_env(env):
     @env.macro
     def post_list(folder="docs/post"):
-        posts = []  # Danh sách lưu trữ các bài viết
+        posts = []
 
         # Duyệt qua tất cả các file trong thư mục
         for root, _, files in os.walk(folder):
@@ -17,10 +16,17 @@ def define_env(env):
                     # Đọc metadata của file
                     with open(filepath, "r", encoding="utf-8") as f:
                         meta = frontmatter.load(f)
-                        if "date" in meta:  # Kiểm tra nếu có metadata "date"
+                        
+                        # Kiểm tra và xử lý metadata "date"
+                        if "date" in meta:
+                            date = meta["date"]
+                            # Nếu date là string, chuyển đổi sang datetime
+                            if isinstance(date, str):
+                                date = datetime.strptime(date, "%Y-%m-%d")
+                            
                             posts.append({
                                 "title": meta.get("title", file.replace(".md", "")),
-                                "date": datetime.strptime(meta["date"], "%Y-%m-%d"),
+                                "date": date,
                                 "url": filepath.replace("docs/", "").replace(".md", "/"),
                             })
 
