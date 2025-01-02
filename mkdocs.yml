@@ -53,6 +53,7 @@ plugins:
   - obsidian-bridge
   #- obsidian-support
   - glightbox
+  - macros
   - blogging:
       dirs:
         - post

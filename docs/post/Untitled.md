@@ -1,5 +1,3 @@
-```dataview
-list
-from "docs/post"
+# Danh sách bài viết
 
-```
+{{ post_list() }}

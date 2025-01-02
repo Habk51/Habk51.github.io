@@ -9,3 +9,4 @@ mkdocs-obsidian-interactive-graph-plugin
 overrides
 markdown
 pymdown-extensions
+mkdocs-macros-plugin
