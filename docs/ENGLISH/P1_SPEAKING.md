@@ -55,8 +55,10 @@ Releated:
 
 **Ví dụ trả lời:**
 
-- _I prefer e-books to paper books. In fact, they are lighter and more portable, so I can carry ==hundreds of books== on my device. Besides, e-books are usually cheaper, which is great for students like me._
+I prefer e-books to paper books. In fact, they are lighter and more portable, so I can carry ==hundreds of books== on my device. Besides, e-books are usually cheaper, which is great for students like me._
+
 [[phân biệt hundreds of books và a hundred of book]]
+
 **Từ vựng gợi ý:**
 
 - E-books: sách điện tử
@@ -95,7 +97,7 @@ Releated:
 
 **Ví dụ trả lời:**
 
-- _I prefer buying things from big companies. Actually, they offer a wider range of products and often have better customer service. Besides, their prices are usually more competitive._
+- _I prefer buying things from big companies. Actually, they offer ==a wider range of products== and often <span style="background:rgba(205, 244, 105, 0.55)">have better customer service</span>. Besides, their prices are usually more <span style="background:rgba(205, 244, 105, 0.55)">competitive</span>._
 
 **Từ vựng gợi ý:**
 
@@ -114,13 +116,13 @@ Releated:
 
 **Ví dụ trả lời:**
 
-- _I prefer to study at home rather than in other places. In fact, I feel more comfortable and can focus better in a quiet environment. Also, I have all the resources I need, such as my laptop and books._
+- _I prefer to study at home ==rather than== in other places. In fact, I feel more <span style="background:rgba(205, 244, 105, 0.55)">comfortable</span> and can<span style="background:rgba(205, 244, 105, 0.55)"> focus </span>better in a quiet environment. Also, I have all the resources I need, such as my laptop and books._
 
 **Từ vựng gợi ý:**
 
-- Quiet environment: môi trường yên tĩnh
+- <span style="background:rgba(240, 167, 216, 0.55)">Quiet environment:</span> môi trường yên tĩnh
 - Resources: tài nguyên
-- Distractions: sự xao nhãng
+- <span style="background:rgba(240, 167, 216, 0.55)">Distractions</span>: sự xao nhãng
 
 ---
 
