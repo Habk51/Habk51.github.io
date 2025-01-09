@@ -1314,7 +1314,7 @@ No, I don’t think so. Sports broadcasts are a great way for people to stay con
 
 # **PART TWO**
 
-## 1.    PERSON MONOLOGUE
+## 1.    [[PERSON MONOLOGUE]]
 
 - Describe a person who always has strong opinions.
 - Describe a person who likes to read a lot.
@@ -1324,7 +1324,7 @@ No, I don’t think so. Sports broadcasts are a great way for people to stay con
 - Describe a person who has chosen a career in the medical field (e.g., a doctor, a nurse).
 - Describe an old person who has had an interesting life.
 
-## 2.    PLACE MONOLOGUE
+## 2.    [[PLACE MONOLOGUE]]
 
 - Describe a movie you watched recently (nơi có thể là rạp chiếu phim).
 - Describe a public park or garden.
