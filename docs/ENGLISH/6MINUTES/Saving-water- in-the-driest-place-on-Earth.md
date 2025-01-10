@@ -1,3 +1,14 @@
+---
+title: Save_wate_in_the_driest_place_on_Earth
+aliases: 
+tags: 6minutes
+date: 
+url: 
+author: 
+Releated:
+---
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JFIhleM0Kbo?si=0eyULyHr5dlJeAkq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 |**ENGLISH (VĂN BẢN GỐC)**|**VIETNAMESE (DỊCH)**|**NEW WORD/IDIOM**|**MEANING**|**IPA**|
