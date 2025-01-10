@@ -1,5 +1,5 @@
 ---
-title: Save_wate_in_the_driest_place_on_Earth
+title: Save wate in the driest place on Earth
 aliases: 
 tags: 6minutes
 date: 
