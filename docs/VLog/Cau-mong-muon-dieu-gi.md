@@ -12,28 +12,4 @@ Question :" Cậu mong muốn điều gì, và nếu không bị giới hạn g�
 
 My Answer:
 
-- Mình mong muốn rất nhiều thứ
--  Cuộc sống đầy đủ, có kinh tế, được du lịch khắp nơi, được làm việc vì đam mê, có nhiều bạn bè thân thiết, có bố mẹ yêu thương, có nhiều tiền cho mấy con em đi du lịch khắp thế giới.
-- Có tiền cho con học trường quốc tế..
--Viết ra thấy mình nhiều mong ước ghê ha.
- Thôi không đùa nữa. Sự thật thì người ta bảo, có ai đánh thuế ước mơ đâu. Rồi hãy cứ mơ lớn, bắt đầu nhỏ, Rồi thì mơ lớn nếu không với được tới trời xanh thì bạn cũng nằm giữa những VÌ SAO.
-
-Cuộc sống của mình, hay của tất cả mọi ngừoi đều luôn nằm trong những sự LỰA CHỌN. Bạn không thể là một phụ nữ full-time nhưng lại trọn vẹn cơm nước tinh tươm mọi bữa ăn. Bạn không thể làm trưởng phòng mà chưa bao giờ về muộn. Bạn không thể x mà lại y..
-
-Cuộc sống là sự lựa chọn. 
-
-- Nếu không bị giới hạn gì = Bạn là một người độc thân ( ý mình là gần thế).
-- Bạn có thể ăn mì gói cả tháng, thậm chí cả năm.
-- Du lịch bụi với 0 đồng.
-- ..
-Thế bạn có gia đình thì có thể thế không?
-
-- Tất nhiên, không ai cấm- Nhưng xét tổng thể thì nó sẽ rất sao sao đúng không.
--> vậy kết luận là: Bạn, Tôi luôn nằm trong một MÔI TRƯỜNG. và Môi trường đó quyết định phần nào các lựa chọn của bạn.
-- Nếu bố mẹ giàu: có thể mình sẽ chọn ngành nghề theo đam mê? 
-	- Viết thêm chút về ý này: Cha mẹ thì chỉ có thể cho được những gì cha mẹ có, Cha mẹ giầu có về kinh tế thì con đỡ Vất vả. Cha mẹ giàu kiến thức thì cho con tầm hiểu biết. Cha mẹ giàu sự bao dung thì con sẽ bao dung. ( tất nhiên luôn có ngoại lệ- nhưng đã là ngoại lệ thì là thiểu số- mình nhắc tới cái đa số).
-	  - Question tiếp: thế sao các bạn gia đình nghèo khó thì có KHẢ NĂNG vượt khó và học tốt hơn nhưng em có điều kiện tốt hơn?. điều này đúng nhưng chưa đủ.-> Sẽ nói tiếp sau
-- Nếu  Có kinh tế tốt, năm du lịch nước ngoài vài lần, cần gì phải ước.
--> hehe. Viết lòng vòng Tóm lại là sao? 
-
-???
+🔐β 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 🔐
