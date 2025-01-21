@@ -31,7 +31,7 @@ All rights reserved. No part of this publication may be reproduced, stored in a 
 
 ---
 
-Preface 
+[[Preface ]]
 
 Looking back at your past time of speaking English or your latest conversation with a foreigner, did you encounter any of the following problems: so embarrassed that you were empty-minded? thinking of many aspects but not knowing which one to begin with? knowing the answer but unable to express it in English fluently? 31 High-scoring Formulas to Answer the IELTS Speaking Questions can help IELTS candidates solve the problems of "not knowing what to say" and "not knowing how to say it" in the Speaking test. These 31 high-scoring formulas are designed based on effective strategies to deal with actual IELTS Speaking test questions. They cover nearly all topics in the real Speaking test. <span style="background:rgba(255, 183, 139, 0.55)">Mastering them</span> <span style="background:rgba(240, 167, 216, 0.55)">enables</span> the candidates<span style="background:rgba(240, 167, 216, 0.55)"> to answe</span>r every question <span style="background:rgba(205, 244, 105, 0.55)">naturally</span> and <span style="background:rgba(205, 244, 105, 0.55)">confidently</span> <span style="background:rgba(255, 183, 139, 0.55)">in order to get </span>the highest score possible at their level of <span style="background:rgba(240, 167, 216, 0.55)">proficiency</span>. 
 
@@ -45,31 +45,31 @@ Take<span style="background:rgba(160, 204, 246, 0.55)"> one common question</spa
 
  *<span style="background:rgba(205, 244, 105, 0.55)"> Use a range of different adverbs of frequency correctly. </span>I play badminton very often. I never go skiing. 
 
-If candidates follow the recommended steps of forming the answer, their responses will be more <span style="background:rgba(240, 167, 216, 0.55)">coherent</span>  and <span style="background:rgba(240, 167, 216, 0.55)">well structured</span>. Based on this high-scoring formula, <span style="background:rgba(205, 244, 105, 0.55)">an expected response may be </span>"<span style="background:rgba(173, 239, 239, 0.55)">I play sports a few times a week. Usually I play basketball with my friends, but sometimes I play football instead. I think team sports are a great way to socialise and keep fit</span>." Compared to the answer "Yes, I play sports every day," this response <span style="background:rgba(240, 167, 216, 0.55)">is clearly richer</span> and <span style="background:rgba(240, 167, 216, 0.55)">more detailed in content</span>, and <span style="background:rgba(240, 167, 216, 0.55)">more accurate and natural</span> in using language expressions. 
+If candidates<span style="background:rgba(173, 239, 239, 0.55)"> follow</span> the recommended steps of forming the answer, their responses will be more <span style="background:rgba(240, 167, 216, 0.55)">coherent</span>  and <span style="background:rgba(240, 167, 216, 0.55)">well structured</span>. Based on this high-scoring formula, <span style="background:rgba(205, 244, 105, 0.55)">an expected response may be </span>"<span style="background:rgba(173, 239, 239, 0.55)">I play sports a few times a week. Usually I play basketball with my friends, but sometimes I play football instead. I think team sports are a great way to socialise and keep fit</span>." Compared to the answer "Yes, I play sports every day," this response <span style="background:rgba(240, 167, 216, 0.55)">is clearly richer</span> and <span style="background:rgba(240, 167, 216, 0.55)">more detailed in content</span>, and <span style="background:rgba(240, 167, 216, 0.55)">more accurate and natural</span> in using language expressions. 
 
-Once you have mastered this high-scoring formula, all questions which start with "How often ... ?" will be solved easily. For example, "[[How often do you eat in restaurants]], [[How often do you go for a long walk]]?, How often do you take public transport?", etc. 
+Once you <span style="background:rgba(240, 167, 216, 0.55)">have mastered</span> this high-scoring formula, all questions which start with "How often ... ?" will be solved easily. For example, "[[How often do you eat in restaurants]], [[How often do you go for a long walk]]?, [[How often do you take public transport]]?", etc. 
 
-Just in the same manner, a good grasp of 31 essential high-scoring formulas in this book can allow candidates to answer every IELTS Speaking test question with confidence and great effectiveness. 
+Just in the same manner, a good grasp of 31 essential high-scoring formulas in this book can allow candidates to answer every IELTS Speaking test question with confidence and <span style="background:rgba(240, 167, 216, 0.55)">great effectiveness.</span> 
 
 ---
 
 Contents 
 
-Overview of the IEL TS Speaking Test """'"'' ""'"'' "" "" """ '"'''''' """""'''''''''' '''' """""""""'''''','''''''''''''''''''''' '''''''''''''''''''''' """"""""""""'" 6 
+Overview of the IEL TS Speaking Test 6 
 
-How to Use 31 High-scoring Formulas to Answer the IELTS Speaking Questions '''''' ''''''','''''' 9 
+How to Use 31 High-scoring Formulas to Answer the IELTS Speaking Questions 9 
 
-Part @OO[§ 
+Part 1
 
-Introduction to Part One Formulas",,,,,,,,,,,,,,,,,,, """"""""'"'''''''''' """'''''''''''''''''' """"""" """,,," ,,""'''''''''''''''''''''''' "'" '"'''''''''' """"""""""""'''''''' 11 
+Introduction to Part One Formulas11 
 
-Formula 1: Do you prefer X to y?"" "'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''',,'''' """"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,^13 
+Formula 1: Do you prefer X to y^13 
 
-Formula 2: What do you usually /normally do?""""""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,^20 
+Formula 2: What do you usually /normally do?^20 
 
-Formula 3: What do you like to do (in your spare time)? """""""'"''''''''''''''''''''''''','''''''''''''''''''''''''''''''''''''''''''''''''''''''"""", 28 
+Formula 3: What do you like to do (in your spare time)? 28 
 
-Formula 4: What do you dislike about X? '"'''''''''''''''' ",,,,,,,,,,,,,,,,,,,,,,,,^34 
+Formula 4: What do you dislike about X?34 
 
 Formula 5 : How often do you do X?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ''''''''''''''''''''''''''''',,'''''''''''''''''''''''''''''''''''''''''''''' """",,,,,,,,,,,,,,,,,,,^40 
 
@@ -105,85 +105,72 @@ Formula 17: How can people find out about X?""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 Formula 18: Should people be given X?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, """""""'""""""'" ","""",,,,""""""""" """""'" 128 
 
-Formula 19: Is it difficult to do X?"""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""''''',,','''''''''''''''''''''''''''''''''''''''''''''''''''''''''' """"""""'""""""'" """'" 135 
+Formula 19: Is it difficult to do X?135 
 
-Formula 20: Is X suitable for (types of people)?""""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ""'"'''''''''''''''''''''''''''''''''''''' """"""""""""""""""'" 141 
+Formula 20: Is X suitable for (types of people)?"""""141 
 
 ---
 
  Contents 
 
- Part LrW@ Introduction to Part Two Formulas",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,""""'''''''''''''''' """'" '''''''''''' """ " " " "'" """"""""""" 147 
+ Part LrW@ Introduction to Part Two Formulas",147 
 
-Formula 21: Person Monologue""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,""""""""""""""""""''','",,'',,''"""'""""""'''''''''' """""'"",,'''''''''''' "''''''",,'''''' """" 149 
+Formula 21: Person Monologue"149 
 
-Formula 22: Place Monologue""""""""""""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''',,''''''''"""'"'''''''''''''''''''''''''''' 177 
+Formula 22: Place Monologue"177 
 
-Formula 23 : Object Monologue"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",,",,",,""""'''''''''''''' """"" """"'"'''''''''''''''''''''''''''''''''''''''''''''''''' """""""""""""" 204 
+Formula 23 : Object Monologue""204 
 
-Formula 24: Past Event Monologue""",.""",,,,,.,, .. ,, .. ,,, .. ,,, .. ,,,.,,,.,,.,,,,,,,.,,,,,,,,,,,""" ... ",.".""" .. "", .. "."''''" ..... "''".,,.,,.,, ...... ,,'',,.,,''" .... """.,,,.,,"''''''',,.,,'''' """"." ............. 234 
+Formula 24: Past Event Monologue234 
 
- Introduction to Part Three Formulas",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, """""""""'"'''''''''''''" .. "''''''''''".,,'''''''''''''''''',,.,,'''''"""""'".,'''''".,'''''''''''''''''''" .... "'''''''''',.",,, 267 
+ Introduction to Part Three Formulas, 267 
 
-Formula 25: Giving and Supporting Opinions." .. " .. " .. ", ... " .. "." .. ",." ... " .. " .. "."."" .... "."."." .... " ... "."."."" ..... "."."""" .. " ... "." .. "" .. ,, .. ".""."." .... " .. ".".""" ... 269 
+Formula 25: Giving and Supporting Opinions.. 269 
 
-Formula 26 : Evaluating Two Different Opinions" .. " ... " ... , .. " .. "."" .. "." .. " .. " .. " .... "."." .. ," ... ",."."""." ...... "."." .. " .... " ... ".""."'"''''".,,,,.,,''' .... ""''''''',, ...... 279 
+Formula 26 : Evaluating Two Different Opinions279 
 
-Formula 27: Agreeing and Disagreeing.",,,,,,,,,,,,,,,,,,,.,,,,,,,,,,,,,,,,.,,,,,,, .. ,,.,,,,,,,,,,,,,.,,,,,,,,,." ... " .... ".""'''''" .. "''''''''''''''" .... "''''''''''" .. ,, ... ,, .. ,, .. "'''''''''''''"."" .... "'''''".",, .. ,,, 289 
+Formula 27: Agreeing and Disagreeing. 289 
 
-Formula 28: Talking about Advantages and Disadvantages""""" .. """."""".,,""'''''''''',, ..... ,,'''''''',, ... ,,'"""'"."'''''''''''''''''''" .... "'''''".",,.,,,, 300 
+Formula 28: Talking about Advantages and Disadvantages 300 
 
-Formula 29: Expressing Importance and Priority .. "" .. """.""."."".""""".""" .. """"".",. "'''"."" .. "'''',,.,,'' """"""" .... ""."'".""",,, 310 
+Formula 29: Expressing Importance and Priority .. 310 
 
-Formula 30 : Proposing Solutions to Problems,,,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,,,,,,,,,,,, .. ,,,,,,,,,.,, ... "'"'''''''".,'" ... "'''"."'''".",,.,,''''''''''''''''''''''''''',, ... ,,'''''",,,,, .. ,,,,, 321 
+Formula 30 : Proposing Solutions to Problems321 
 
-Formula 31: Speculating about Future Events and Outcomes ... "."."." .. ".".""""""" .. "."."" .. " .. "" .. " .. " .. "" .. " .. ""."."" .... """ .. "." .. ",,, 329 
+Formula 31: Speculating about Future Events and Outcomes . 329 
 
 Appendices 
 
- Top 10 Do's and Don'ts for the IELTS Speaking Test..""""" .. "."" ... ". "." .... ""."""" .. " .... "" .. "" .. " .. "" .. " .. ", .. " ... " .. ,,.,,".,,, .. ,,,,,,.,, .. ,,.,, .. ,,,,, 339 
+ Top 10 Do's and Don'ts for the IELTS Speaking Test..339 
 
-Verbs Most Commonly Misused by IELTS Candidates"""""."".,,,,,,,,,,.,, .. ,,,,,,,,,,,,,,,.,,,,.,,,,,,.,,.,,.,,,.,," .. """"."".",,. ."."."",, 340 
+Verbs Most Commonly Misused by IELTS Candidates-ng test is divided into 3 parts:** 
 
-An.swer Key.,,,,,,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,,,,,.,,"'''''''',.,,''''''''''''''''''''''''''''''''',,.,,,,.,,'''''''''''',,.,,'',,,.,,"""",:,"",,.,,'''''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''"""""."".,,"" "",,,,,,,,, 343 
+## [[Part 1 ]]
 
----
-
-## Overview of the IEL TS Speaking Test 
-
- **The IELTS Speaking test is divided into 3 parts:** 
-
-### Part 1 
-
-Part 1 lasts for 4-5 minutes. The examiner will ask you some familiar questions about your hometown, family, hobbies, acquaintances, etc. You are supposed to answer the questions briefly and accurately, along with specific examples. 
-
-Part 1 aims to test the candidate's ability to discuss familiar topics and use simple English grammar. 
-
+![[Part 1]]
 ### Part 2 
 
-Part 2 lasts between 3 and 4 minutes. The examiner will ask you to give a personal monologue about a certain topic for 1-2 minutes. You will be given a cue card on which there are points you should cover. You have 1 minute for preparation; meanwhile, you will be provided with a pen and paper to jot down some main ideas. 
+Part 2 lasts <span style="background:rgba(160, 204, 246, 0.55)">between 3 and 4 minutes</span>. The examiner will ask you to give <span style="background:rgba(160, 204, 246, 0.55)">a personal monologue about a certain topic for 1-2 minutes</span>. You will be given <span style="background:rgba(160, 204, 246, 0.55)">a cue card</span> on which there are points you should cover. <span style="background:rgba(160, 204, 246, 0.55)">You have 1 minute for preparation;</span> meanwhile, you will be provided with a pen and paper to<span style="background:rgba(240, 167, 216, 0.55)"> jot down</span> some main ideas. 
 
- Part 2 aims to test the ability of speaking in long turns. 
+ Part 2 <span style="background:rgba(240, 167, 216, 0.55)">aims to test the ability of speaking in long turns</span>. 
 
 ---
 
 Part 3 
 
-In Part 3 of the IELTS Speaking test, which lasts 4 5 minutes, you will participate in a discussion with the examiner based on the topic in Part 2. You should express and support your opinion clearly, as well as show your skills of using English in discussing various topics in depth. 
+In Part 3 of the IELTS Speaking test, <span style="background:rgba(240, 167, 216, 0.55)">which lasts 4 5 minutes</span>, you will participate in a discussion with the examiner <span style="background:rgba(240, 167, 216, 0.55)">based on the topic in Part 2</span>. <span style="background:rgba(173, 239, 239, 0.55)">You should express and support your opinion clearly, as well as show your skills of using English in discussing various topics in depth. </span>
 
-Part 3 aims to test the candidate's ability to express personal interpretations of argumentative issues and to discuss them in detail. 
-
----
+Part 3 aims to test the candidate's <span style="background:rgba(205, 244, 105, 0.55)">ability to express personal interpretation</span>s of argumentative issues and to discuss them in detail. 
 
 ---
 
-How to Use 31 High-scoring Formulas 
+---
 
-to Answer the IEL TS Speaking Questions 
+How to Use 31 High-scoring Formulas to Answer the IEL TS Speaking Questions 
 
 Structure of the Book 
 
-This book can be used eithedor self-study or as in-class training material. 31 High-scoring Formulas to Answer the IELTS Speaking Questions consists of 3 parts corresponding to the IELTS Speaking test components. Part 1: 20 high-scoring formulas for IELTS Speaking Test Part One Part 2: 4 high-scoring formulas for IELTS Speaking Test Part Two Part 3: 7 high-scoring formulas for IELTS Speaking Test Part Three , Each formula consists of 2 sections: Answer order and Language steps. Answer order shows you "what to say", which indicates the logic of an answer needed for a speaking test question type; and Language steps show you "how to say it", which includes detailed vocabulary and grammar you need to communicate your ideas. 
+This book can be used [[eithedor]] self-study or as in-class training material. 31 High-scoring Formulas to Answer the IELTS Speaking Questions consists of 3 parts corresponding to the IELTS Speaking test components. Part 1: 20 high-scoring formulas for IELTS Speaking Test Part One Part 2: 4 high-scoring formulas for IELTS Speaking Test Part Two Part 3: 7 high-scoring formulas for IELTS Speaking Test Part Three , Each formula consists of 2 sections: Answer order and Language steps. Answer order shows you "what to say", which indicates the logic of an answer needed for a speaking test question type; and Language steps show you "how to say it", which includes detailed vocabulary and grammar you need to communicate your ideas. 
 
 Learning Strategies 
 
@@ -2965,7 +2952,7 @@ Read the model answers from the two IELTS candidates, Alice and David.
 
  Language step 1 Opinion Phrases Let's look at how the two IELTS candidates, Alice and David, use the opinion phrases. 
 
-### Alice Well, in my opinion, people don't get enough exercise... l 
+Alice Well, in my opinion, people don't get enough exercise... l 
 
  David J believe tha.t they get too many holidays.... -
 
