@@ -3060,11 +3060,7 @@ IdJ Exercise 17.3: Gap Fill
 5. Ifwe can't really rely on a source of information, we usually say it's 
 
 ---
-
-Formula 18 
-
-Should people be given X? 
-
+Formula 18 Should people be given X? 
  Aims In this lesson you'll master the Formula for Should people be given X? type questions. Should people be given more holidays? Should people be paid more if they work overtime? Should children be required to wear a uniform to school? 
 
  The formula When the examiner asks you Should people be given X? type questions, you must: 
