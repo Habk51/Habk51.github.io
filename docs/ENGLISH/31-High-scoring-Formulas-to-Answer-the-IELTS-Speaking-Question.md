@@ -3071,7 +3071,7 @@ Language steps
 
 2. Use common native speaker rights, fairness and permission expressions with the     passive.        All' workers deserve to be pro'vided with a fair salary. 
 
-3. Express reasons like a na·tive with. the zero conditional.     {{workers are treated fairly, they are usually more loyal to their company. 
+3. Express reasons like a na·tive with. the zero conditional.     workers are treated fairly, they are usually more loyal to their company. 
 
 Native speaker words Let's learn some native speaker words which are useful for answering this type of question. These words can also help you understand the model answers on the next page more thoroughly. 
 
