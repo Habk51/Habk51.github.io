@@ -29,121 +29,14 @@ This edition is published 'in Vietnam under a license Agreement between Foreign 
 
 All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of the copyright owner. 
 
----
-
 [[Preface ]]
 
-Looking back at your past time of speaking English or your latest conversation with a foreigner, did you encounter any of the following problems: so embarrassed that you were empty-minded? thinking of many aspects but not knowing which one to begin with? knowing the answer but unable to express it in English fluently? 31 High-scoring Formulas to Answer the IELTS Speaking Questions can help IELTS candidates solve the problems of "not knowing what to say" and "not knowing how to say it" in the Speaking test. These 31 high-scoring formulas are designed based on effective strategies to deal with actual IELTS Speaking test questions. They cover nearly all topics in the real Speaking test. <span style="background:rgba(255, 183, 139, 0.55)">Mastering them</span> <span style="background:rgba(240, 167, 216, 0.55)">enables</span> the candidates<span style="background:rgba(240, 167, 216, 0.55)"> to answe</span>r every question <span style="background:rgba(205, 244, 105, 0.55)">naturally</span> and <span style="background:rgba(205, 244, 105, 0.55)">confidently</span> <span style="background:rgba(255, 183, 139, 0.55)">in order to get </span>the highest score possible at their level of <span style="background:rgba(240, 167, 216, 0.55)">proficiency</span>. 
 
-Take<span style="background:rgba(160, 204, 246, 0.55)"> one common question</span> in the IELTS Speaking test as an example, <span style="background:rgba(240, 167, 216, 0.55)">"How often do you play sports?"</span> So many candidates would answer "Yes, I play sports every day." The answer may <span style="background:rgba(240, 167, 216, 0.55)">sound</span> grammatically correct, <span style="background:rgba(240, 167, 216, 0.55)">but it fails to earn them a decent score</span> on the IELTS Speaking test. In fact, with this type of question, it is expected that candidates would apply the order of forming responses similar to the following model: 
 
-<span style="background:rgba(160, 204, 246, 0.55)">Step 1: Forming the answer </span>
 
- * <span style="background:rgba(205, 244, 105, 0.55)">Say how frequently you do the activity the examiner asks you about. * Explain why you do it that frequently. </span>
+[[Contents ]]
 
-<span style="background:rgba(160, 204, 246, 0.55)">Step 2: Applying language skills to elicit the answer </span>
-
- *<span style="background:rgba(205, 244, 105, 0.55)"> Use a range of different adverbs of frequency correctly. </span>I play badminton very often. I never go skiing. 
-
-If candidates<span style="background:rgba(173, 239, 239, 0.55)"> follow</span> the recommended steps of forming the answer, their responses will be more <span style="background:rgba(240, 167, 216, 0.55)">coherent</span>  and <span style="background:rgba(240, 167, 216, 0.55)">well structured</span>. Based on this high-scoring formula, <span style="background:rgba(205, 244, 105, 0.55)">an expected response may be </span>"<span style="background:rgba(173, 239, 239, 0.55)">I play sports a few times a week. Usually I play basketball with my friends, but sometimes I play football instead. I think team sports are a great way to socialise and keep fit</span>." Compared to the answer "Yes, I play sports every day," this response <span style="background:rgba(240, 167, 216, 0.55)">is clearly richer</span> and <span style="background:rgba(240, 167, 216, 0.55)">more detailed in content</span>, and <span style="background:rgba(240, 167, 216, 0.55)">more accurate and natural</span> in using language expressions. 
-
-Once you <span style="background:rgba(240, 167, 216, 0.55)">have mastered</span> this high-scoring formula, all questions which start with "How often ... ?" will be solved easily. For example, "[[How often do you eat in restaurants]], [[How often do you go for a long walk]]?, [[How often do you take public transport]]?", etc. 
-
-Just in the same manner, a good grasp of 31 essential high-scoring formulas in this book can allow candidates to answer every IELTS Speaking test question with confidence and <span style="background:rgba(240, 167, 216, 0.55)">great effectiveness.</span> 
-
----
-
-Contents 
-
-Overview of the IEL TS Speaking Test 6 
-
-How to Use 31 High-scoring Formulas to Answer the IELTS Speaking Questions 9 
-
-Part 1
-
-Introduction to Part One Formulas11 
-
-Formula 1: Do you prefer X to y^13 
-
-Formula 2: What do you usually /normally do?^20 
-
-Formula 3: What do you like to do (in your spare time)? 28 
-
-Formula 4: What do you dislike about X?34 
-
-Formula 5 : How often do you do X?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ''''''''''''''''''''''''''''',,'''''''''''''''''''''''''''''''''''''''''''''' """",,,,,,,,,,,,,,,,,,,^40 
-
-Formula 6: What do you like most about X?"""""""""""""" 
-
- Is X popular (in your country)?""",,,,, 
-
- """"'''''''''''''''''''''''''''''''''''''''''''''"''''''''''','''''''',,,'",,, 47 
-
-Formula 7 : 
-
-Formula 8: What is the best time (of year) to do X?""""",,,,,,,,,,,, 
-
- """"", 54 ",,,,,,,, 61 
-
-Formula 9: Why do some people like X?"""""""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,""'"""""" "''''',,'' ",""'" 69 
-
-Formula 10: When was the first/last time you did X?"""""" """'"'''''''''''''''''''''''''''''''''''''''''','',,',,''''''''''''''' """""""""""""" 76 
-
-Formula 11 : Did you ever learn to do X?"",,,,,,,,,,,,,,,,,,,,,,,,,,,, """'"'''''''''''''''''' ""',"""""""""""""'''''''''''''''''''''''''''''''''''''''''' """", 84 
-
-Formula 12: How has X changed?"""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""",, ",,"",,,""'''''''''''''''''''''''''''''''''''''''''''''''', """"""'''''''''"'''''''''''''' ",""",,"''''',,'','''',' 91 
-
-Formula 13: How would you improve X?""""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, """"''''''''''''''''''''''''''''''''''''''' ''''''''"',,,'',,'',,'''''''''''''''''''''''''''''''''''', 97 
-
-Formula 14: How important is X?"""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","" ""',,"""""" """"" " """"""'" ""'''' 1 03 
-
-Formula 15: What do you want/hope to do (in the future)?""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,, """""'"'''''''''''''''''' """ 110 
-
-Formula 16: Do people do / get enough X? """'"'' '",,''' ,,",,",,""""""""""'"'''''''''''''''''''''''''''''''''''''''''''''' """""""'"''''''''''''''',,'',,'','''''''',''' 116 
-
-Formula 17: How can people find out about X?""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, """""""""""""""""'""'''',,,,''''''''''''''''''''' '"'''''''' 122 
-
-Formula 18: Should people be given X?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, """""""'""""""'" ","""",,,,""""""""" """""'" 128 
-
-Formula 19: Is it difficult to do X?135 
-
-Formula 20: Is X suitable for (types of people)?"""""141 
-
----
-
- Contents 
-
- Part LrW@ Introduction to Part Two Formulas",147 
-
-Formula 21: Person Monologue"149 
-
-Formula 22: Place Monologue"177 
-
-Formula 23 : Object Monologue""204 
-
-Formula 24: Past Event Monologue234 
-
- Introduction to Part Three Formulas, 267 
-
-Formula 25: Giving and Supporting Opinions.. 269 
-
-Formula 26 : Evaluating Two Different Opinions279 
-
-Formula 27: Agreeing and Disagreeing. 289 
-
-Formula 28: Talking about Advantages and Disadvantages 300 
-
-Formula 29: Expressing Importance and Priority .. 310 
-
-Formula 30 : Proposing Solutions to Problems321 
-
-Formula 31: Speculating about Future Events and Outcomes . 329 
-
-Appendices 
-
- Top 10 Do's and Don'ts for the IELTS Speaking Test..339 
-
-Verbs Most Commonly Misused by IELTS Candidates-ng test is divided into 3 parts:** 
+ 
 
 ## [[Part 1 ]]
 
@@ -168,11 +61,11 @@ Part 3 aims to test the candidate's <span style="background:rgba(205, 244, 105, 
 
 How to Use 31 High-scoring Formulas to Answer the IEL TS Speaking Questions 
 
-Structure of the Book 
+## Structure of the Book 
 
 This book can be used [[eithedor]] self-study or as in-class training material. 31 High-scoring Formulas to Answer the IELTS Speaking Questions consists of 3 parts corresponding to the IELTS Speaking test components. Part 1: 20 high-scoring formulas for IELTS Speaking Test Part One Part 2: 4 high-scoring formulas for IELTS Speaking Test Part Two Part 3: 7 high-scoring formulas for IELTS Speaking Test Part Three , Each formula consists of 2 sections: Answer order and Language steps. Answer order shows you "what to say", which indicates the logic of an answer needed for a speaking test question type; and Language steps show you "how to say it", which includes detailed vocabulary and grammar you need to communicate your ideas. 
 
-Learning Strategies 
+## Learning Strategies 
 
 It is recommended that you follow the order of content presented in this book, starting with the basic and easier content first to set a firm base for your speaking skill. To maximise your learning results, consider these following steps: 
 
@@ -188,39 +81,29 @@ It is recommended that you follow the order of content presented in this book, s
 
 6. Work through the material with your friends, if possible. You all can ask and answer in turn     to practise the high-scoring formulas. 
 
-www,nhantriviet,(om 9 
+
 
 ---
 
-10 
+## Formula 1 
 
----
+### Do you prefer X to. Y? 
 
----
+#### Aims 
 
-12 
+ In this lesson you'll master the Formula for [[Do you prefer X to Y ]]type questions. Do you prefer writing letters or sending emails? Do you prefer talking on the phone or chatting online? Do you prefer to travel by bike or on foot? 
 
----
-
-Formula 1 
-
-Do you prefer X to. Y? 
-
-Aims 
-
- In this lesson you'll master the Formula for Do you prefer X to Y? type questions. Do you prefer writing letters or sending emails? Do you prefer talking on the phone or chatting online? Do you prefer to travel by bike or on foot? 
-
-The formula 
+#### The formula 
 
 When the examiner asks you Do you prefer X to Y? type questions, you must: 
 
-Language steps 
+#### Language steps 
 
 1. Master prefer + verb-ing     I prefer walkjn.g. and prefer + to verb. I prefer to walk., 
 
 2. Use comparatives of convenience or greater benefit like a native speaker.     Travelling by bus isfaster them g0ing by car. 
 
- http://www.nhant l.iviet.com 
+
 
  Part One 
 
