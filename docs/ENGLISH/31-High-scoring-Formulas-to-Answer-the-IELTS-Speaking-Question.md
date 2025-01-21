@@ -91,7 +91,7 @@ It is recommended that you follow the order of content presented in this book, s
 
 Native speaker words 
 
-Let's learn some native speaker words which are useful for answering this type of question. These words can also help you understand the model answers on the next page more thoroughly. 
+Let's learn some native speaker words which are useful for answering this type of question. These words can also help you understand the model answers on the next page more [[thoroughly]]. 
 
  convenient adjective fitting or plans in well with a person's needs. Is Friday it convenient afternoon? for you to meet 
 
