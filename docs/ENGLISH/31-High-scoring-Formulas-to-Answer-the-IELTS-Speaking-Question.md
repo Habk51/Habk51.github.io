@@ -72,6 +72,47 @@ It is recommended that you follow the order of content presented in this book, s
 
 ## [[Formula 1 ]]
 
+### Do you prefer X to. Y? 
+
+#### Aims 
+
+ In this lesson you'll master the Formula for [[Do you prefer X to Y ]]type questions. Do you prefer writing letters or sending emails? <span style="background:rgba(173, 239, 239, 0.55)">Do you prefer talking on the phone or chatting online</span>? Do you prefer to travel by bike or on foot? 
+![](https://i.imgur.com/HG2FQBT.png)
+
+#### The formula 
+
+When the examiner asks you <span style="background:rgba(255, 183, 139, 0.55)">Do you prefer X to Y?</span> type questions, you must: 
+![](https://i.imgur.com/mB0M7gv.png)
+
+#### Language steps 
+
+1. Master <span style="background:rgba(205, 244, 105, 0.55)">prefer + verb-ing </span>   
+	I prefer walkjn.g. 
+	and <span style="background:rgba(205, 244, 105, 0.55)">prefer + to verb.</span>
+	 I prefer to walk., 
+
+3. Use c<span style="background:rgba(205, 244, 105, 0.55)">omparatives of convenience or greater benefit </span>like a native speaker.    
+	1. Travelling by bus isfaster them g0ing by car. 
+![](https://i.imgur.com/GYPAWkQ.png)
+[[Do you prefer X to Y]]
+
+
+**Native speaker words**
+
+Let's learn some native speaker words which are useful for answering this type of question. These words can also help you understand the model answers on the next page more thoroughly.
+
+| **NATIVE SPEAKER WORD** | **PART OF SPEECH** | **DEFINITION**                                                                                                                                                     | **EXAMPLE SENTENCE**                                                                                                                                                                         |
+| ----------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **convenient**          | adjective          | fitting in well with a person’s needs or plans                                                                                                                     | Is it convenient for you to meet Friday afternoon?                                                                                                                                           |
+| **actually**            | adverb             | in fact; really (usually used before a slightly surprising statement)                                                                                              | Many people think that philosophy is really boring, but it’s actually quite fascinating when you start finding out about it.                                                                 |
+| **get stuck**           | verb               | to get into a situation when you cannot move easily (It can be used in an abstract or specific situation. It is often used when you cannot move in a traffic jam.) | We got stuck in traffic for hours and so we missed our plane.                                                                                                                                |
+| **traffic jam**         | noun               | a lot of vehicles very close together so that they cannot move                                                                                                     | Traffic jams are usually just caused by the amount of cars on the road, rather than by accidents. This is why there are always traffic jams during rush hour.                                |
+| **means of transport**  | noun               | all the different types of transport: cars, buses, trains, the subway, planes, etc.                                                                                | Although a car is probably the most popular means of transport, it is not very suitable for modern life in cities, where they are too expensive and there is not enough space to drive them. |
+| **smiley**              | noun               | a small image used in chat rooms online by users to indicate different emotions (It can also be sent by mobile phone or email. Example: 😊)                        | Whenever I make a joke about somebody while I am on the Internet and I worry that somebody might get angry, I just put a smiley at the end of my message to show I was only joking.          |
+| **online**              | adjective/adverb   | on the Internet                                                                                                                                                    | I won’t let my child surf the Web; there are too many dangerous and dirty things online.                                                                                                     |
+| **sociable**            | adjective          | describing somebody who likes meeting new people or spending time with people                                                                                      | Mark isn’t a very sociable person at all; he hardly ever goes out to have fun and spends all his time alone in his room playing computer games.                                              |
+
+
 ---
 **Native speaker words**
 
@@ -94,27 +135,54 @@ Let's learn some native speaker words which are useful for answering this type o
  
 ##### Model answers 
 
-Read the model answers from the two IELTS candidates, Alice and David. 
+**Read the model answers from the two IELTS candidates, Alice and David.** 
 
-Language step I Prefer 
+**Interviewer**: Do you prefer to travel by bike or by bus?  
+**Alice**: I prefer cycling to travelling by bus. Cycling is so much more convenient than taking the bus if you're not travelling too far. Actually, it's often faster to go by bike because you don't get stuck in traffic jams! Cycling is also better for my health than all other means of transport, including buses.
 
-Let's look at how the two IELTS candidates, Alice and David, use the verb prefer. 
+**Interviewer**: Do you prefer chatting online or talking on the phone?  
+**David**: Generally, I prefer chatting online. I nearly always find that chatting online can be more sociable as you can speak to more than one person at the same time. Also, chatting online is often much more fun because you can send smileys, photos and even videos!
 
- Alice I prefer cycling to travelling by bus... ] David Generally, I prefer chatting online ... 
 
-Obviously, the first thing you need to tell the examiner for this type of question is whether you prefer X or Y. Prefer can be followed by either verb-ing or to verb. 
 
-Notice in the examples below that prefer + verb-ing can be followed by either to or rather than, but prefer + to verb can only be followed by rather than. 
 
-prefer + verb-ing + to / rather than + verb-ing I prefer cycling to t:akjng the bus. I prefer eating to cookjng. I prefer bal{jn.g cakes at home rather than buying them in shops. I prefer reading a newspaper rather than watching TV. 
+#### **Language step 1** <span style="background:rgba(240, 167, 216, 0.55)">Prefer</span> 
 
-prefer + to verb + rather than + verb I prefer to cycle rather than tak§ the bus. I prefer to eat rather than cool?, I pref er to cakes at home rather than bLtV them in shops. I prefer to read a newspaper rather than watch TV. Both these forms are correct, and mean exactly the same. 
+
+
+> [!NOTE] **Let's look at how the two IELTS candidates, Alice and David,** use the verb<span style="background:rgba(240, 167, 216, 0.55)"> prefer. </span>
+> **Alice**: _I prefer cycling to travelling by bus..._  
+**David**: _Generally, I prefer chatting online..._
+
+ 
+
+<span style="background:rgba(205, 244, 105, 0.55)">Obviously,</span> <span style="background:rgba(173, 239, 239, 0.55)">the first thing you need to tell the examiner </span>for this type of question is whether you prefer X or Y. <span style="background:rgba(173, 239, 239, 0.55)">Prefer can be followed by</span> either <span style="background:rgba(255, 183, 139, 0.55)">verb-ing </span>or <span style="background:rgba(255, 183, 139, 0.55)">to verb. </span>
+
+Notice in the examples below that ==prefer + verb-ing== can be followed by either ==to or rather than==, but<span style="background:rgba(240, 167, 216, 0.55)"> prefer + to verb</span><u> can only be</u> <span style="background:rgba(240, 167, 216, 0.55)">followed by rather than</span>. 
+
+> [!NOTE]
+> prefer + verb-ing + to / rather than + verb-ing
+
+I prefer cycling to t:akjng the bus. 
+I prefer eating to cookjng.
+I prefer baking cakes at home rather than buying them in shops. 
+I prefer reading a newspaper rather than watching TV. 
+
+> [!NOTE]
+> prefer + to verb + rather than + verb
+
+I prefer to cycle rather than tak§ the bus.
+I prefer to eat rather than cool?, 
+I prefer to cakes at home rather than buy them in shops.
+I prefer to read a newspaper rather than watch TV. 
+
+**Both these forms are correct, and mean exactly the same.** 
 
 ---
 
-dJ Exercise 1.1: Error Correction 
+#### **Exercise 1.1: Error Correction** 
 
- Some of the sentences below are incorrect, some are correct. Identify the incorrect sentences and write the correct sentences in the spaces provided. 
+ **Some of the sentences below are incorrect, some are correct. Identify the incorrect sentences and write the correct sentences in the spaces provided.** 
 
 1. I prefer to go to the cinema to watch DVDs at home. 
 
@@ -128,125 +196,207 @@ dJ Exercise 1.1: Error Correction
 
 6. My friends generally prefer to send text messages to talking on the phone. 
 
- Language step 2 Comparatives Let's look again at how the two IELTS candidates, Alice and David, use the comparatives. 
+#### **Language step 2 Comparatives**
+  **Let's look again at how the two IELTS candidates, Alice and David, use the comparatives.** 
+**Alice**:  
+...Cycling is so much *<span style="color:red">more convenient than</span>* taking the bus if you're not travelling too far. Actually, it's often *<span style="color:red">faster</span>* to go by bike because you don't get stuck in traffic jams! Cycling is also *<span style="color:red">better for my health than</span>* all other means of transport, including buses.
 
- Alice ... Cycling is so much more convenient than taking the bus if you're not travelling too far. Actually, it's often faster to go by bike because you don't get stuck in traffic jams! Cycling is also better for my health than all other means of transport, including buses. David .. .I nearly always find that chatting online can be more sociable as you can speak to more than one person at the same time. Also, chatting online is often much more fun because you can send smileys, photos and even videos! 
+**David**:  
+...I nearly always find that chatting online can be *<span style="color:red">more sociable</span>* as you can speak to more than one person at the same time. Also, chatting online is often much *<span style="color:red">more fun</span>* because you can send smileys, photos and even videos!
 
- Mter you have told the examiner whether you prefer X or Y, you should compare them, so it's very important to use comparatives correctly. To form the comparative of an adjective, you should: add -er if the adjective is one syllable long. add -ier if the adjective has two syllables and ends in -yo add more before the adjective ifit has two or more syllables. 
 
----
+ After you have told the examiner whether you prefer X or Y, ==you should compare them==, so ==it's very important to use comparatives correctly==.
+ 
 
- Part One 
 
- Look at the table below to see how these rules work. 
-
- large fast slow 
-
- larger fasteI! slower 
-
- heavy pretty ugly 
-
- heavier 
-
-. prettier     uglier 
-
- comfortable more comfortable 'fashionable more fashionable useful more useful 
-
- When you compare X and Y, you should use one of the following comparative structures: X + be + comparative + than + Y Watching TV is more interesting than listening to the radio. Cars are prettier than buses. X + be + not as + adjective + as + Y Listening to the radio is not as interesting as watching TV. Buses are not as pretty as cars. 
-
-IdJ Exercise 1.2: Multiple 
-
- Choose the correct answers to complete the sentences below. 
-
-1. My mother prefers to eat home rather than eat in restaurants because she says it's __     __ for one's health.     A. more better B. best C. better 
-
-2. I think that I prefer student life to working life because we are allowed to be     our attitude and express ourselves more.     A. more creativity B. more creative C. creativer 
-
- in 
-
-3. Most people prefer taking the airport express light railway to taking a taxi to the airport     because it is     A. much quicker B. more quick C. more quicker 
+<span style="background:rgba(240, 167, 216, 0.55)">To form the *comparative* of an adjective, you should:</span>
+- add **-er** if the adjective is one syllable long.
+- add **-ier** if the adjective has two syllables and ends in **-y**.
+- add <span style="background:rgba(205, 244, 105, 0.55)">**more** before the adjective if it has two or more syllables</span>.
 
 ---
 
-4. I prefer to go to parties with friends rather than with family -partying with friends is so 
+**Look at the table below to see how these rules work.**
 
- much A. exciting 
-
- because I can drink wine and let my hair downl B. excitinger C. more exciting 
-
-5. To be honest, I prefer travelling to work by bus rather than by foot because it's     A. easier B. more easy C. more easier 
-
-6. I don't like taking the subway - it's definitely as the bus. 
-
- A. more comfortable than B. less comfortable C. not as comfortable 
-
-7. For me, sending text messages is sending emails.     A. funnel' than B. more fun than C. not as fun 
-
-8. I prefer studying to working because I feel ____ and ____ when I study.     A. freer; more independent     B. more free; more independent     C. freer; independent 
-
-Extra language point Discourse Markers 
-
-Let's take a look at how the two IELTS candidates, Alice and David, use discourse markers in their answers. 
-
- Alice ... Cycling is so much more convenient than taking the bus if you're not travelling too far. Actually, it's often faster to go by bike because ... David .. .I nearly always find that chatting online can be more sociable as you can speak to more than one person at the same time. Also, chatting online is often much more fun because ... 
-
-One reason why Alice's and David's answers are so good is that both candidates put extra little words (called discourse markers) into their answers in a very native way. 
-
-Try to use the following words and expressions more often when you speak English, as they will help make you sound more like a native speaker: 
-
-actually lin fact 
-
-Actually and in fact are very often used by native speakers to introduce something that may be surprising or that slightly changes what was being said before. It is actually a lot cheaper to go to that supermarket. 111 fact, public buses are a lot more environmentally friendly than many people think. 
+|**Short Adjectives**|**Comparative Form**|**Adjectives ending in -y**|**Comparative Form**|**Long Adjectives**|**Comparative Form**|
+|---|---|---|---|---|---|
+|cheap|cheaper|easy|easier|expensive|more expensive|
+|large|larger|heavy|heavier|comfortable|more comfortable|
+|fast|faster|pretty|prettier|fashionable|more fashionable|
+|slow|slower|ugly|uglier|useful|more useful|
 
 ---
 
- Part One 
 
- needless to say Needless to say is another way of saying obviously or everybody knows that." without sounding rude or arrogant. I like eating lots of cakes, but needless to say, that will make me fat. He's done very badly in his exams, so needless to say, he won't get into university this year. 
+> [!hint]
+> These following adjectives have irregular forms of comparative:
+> 
+> - **good** → **better**
+> - **bad** → **worse**
+> - **fun** → **more fun**
+> 
+> To emphasize the comparative, add **much** before the comparative form.
+> 
+> For example: **much more convenient**
 
- also/in addition Also and in addition are used to add extra or further information. I'm a very sociable person. I prefer team sports such as basketball and football and in addition, I like going to English club with my friends. I prefer cycling rather than driving a car because it helps me keep fit; in addition, it's better for the environment and it's also cheaper! 
 
- besides Besides at the beginning of a phrase means as well as, whereas at the beginning of a clause it means anyway. Besides watching TV and talking to my friends, I can relax while travelling on the subway. I like riding a bike as it's a very convenient way to travel. Besides, it's cheap and I can't afford a car. 
 
-IdJ Exercise 1.3: Gap Fill 
+ **When you compare X and Y, you should use one of the following comparative structures:**
 
- Write the words and expressions below in the correct spaces. 
+> [!NOTE]
+>   X + be + comparative + than + Y
 
- , ',' " .(. 
+   Watching TV i<span style="background:rgba(240, 167, 216, 0.55)">s more interesting than</span> listening to the radio. 
+   Cars are prettier than buses. 
+   
 
-1. ____ , writing emails is a lot cheaper than mailing letters. 
+> [!NOTE]
+>    X + be + not as + adjective + as + Y 
 
-2. I prefer to eat at home rather than eat in restaurants. 
+   
+   Listening to the radio <span style="background:rgba(240, 167, 216, 0.55)">is not as interesting as </span>watching TV. Buses are not as pretty as cars. 
 
-3. Writing letters is a more personal way to communicate. , I like writing by hand. 
+#### **Exercise 1.2: Multiple Choice**  
+Choose the correct answers to complete the sentences below.
 
-4. I prefer watching TV to going to the cinema because ____ being cheaper, it's __     more comfortable. 
-
-5. Many people think it's dangerous to travel by aeroplane but     safest means of transport available. ' 
-
- http://www.nhantl .iviet.com 
-
- __ it's probably the 
-
- 19 
+1. My mother prefers to eat at home rather than eat in restaurants because she says it's ______ for one's health.  
+    A. more better  
+    B. best  
+    C. better
+    
+2. I think that I prefer student life to working life because we are allowed to be ______ in our attitude and express ourselves more.  
+    A. more creativity  
+    B. more creative  
+    C. creativer
+    
+3. Most people prefer taking the airport express light railway to taking a taxi to the airport because it is ______.  
+    A. much quicker  
+    B. more quick  
+    C. more quicker
 
 ---
 
-Formula 2 
+4. I prefer to go to parties with friends rather than with family – partying with friends is so much ______ because I can drink wine and let my hair down!  
+    A. exciting  
+    B. excitinger  
+    C. more exciting
+    
+5. To be honest, I prefer travelling to work by bus rather than by foot because it's ______.  
+    A. easier  
+    B. more easy  
+    C. more easier
+    
+6. I don't like taking the subway – it's definitely ______ as the bus.  
+    A. more comfortable than  
+    B. less comfortable  
+    C. not as comfortable
+    
+7. For me, sending text messages is ______ sending emails.  
+    A. funner than  
+    B. more fun than  
+    C. not as fun
+    
+8. I prefer studying to working because I feel ______ and ______ when I study.  
+    A. freer; more independent  
+    B. more free; more independent  
+    C. freer; independent
 
-What do you usually/normally do? 
+#### Extra language point Discourse Markers 
 
-Aims 
+**Let's take a look at how the two IELTS candidates, Alice and David, use discourse markers in their answers.** 
 
-In this lesson you'll master the Formula for What do you usually/normally do? type questions. 
+ Alice ... Cycling is <span style="background:rgba(240, 167, 216, 0.55)">so much more convenient than</span> taking the bus if you're not travelling too far. Actually, it's often<span style="background:rgba(240, 167, 216, 0.55)"> faster</span> to go by bike because ...
+ 
+  David .. .I nearly always find that chatting online can <span style="background:rgba(240, 167, 216, 0.55)">be more sociable as </span>you can speak to more than one person at the same time. Also, chatting online is often <span style="background:rgba(240, 167, 216, 0.55)">much more fun</span> because ... 
 
- What do. you do on an average day? What is your normal daily routine? Can you describe your typical day? What do you usually do on weekends? 
+**One reason why Alice's and David's answers are so good is that both candidates put extra little words (called discourse markers) into their answers in a very native way.** 
 
-The formula 
+==Try to use the following words and expressions more often when you speak English, as they will help make you sound more like a native speaker:== 
+
+==actually /in fact== 
+
+<span style="background:rgba(240, 167, 216, 0.55)">Actually and in fact </span>are very often used by native speakers to <span style="background:rgba(205, 244, 105, 0.55)">introduce something </span>that may be <span style="background:rgba(205, 244, 105, 0.55)">surprising or that slightly changes</span> what<span style="background:rgba(205, 244, 105, 0.55)"> was being said before</span>.
+
+It is <font color="#ff0000">actually</font> a lot cheaper to go to that supermarket. 
+
+<font color="#ff0000">In fact</font>, public buses are <font color="#ff0000">a lot more environmentally friendly</font> than <font color="#ff0000">many people think</font>. 
+
+---
+
+
+
+##### [[Needless to say ]]
+ 
+
+> [!NOTE]
+> <font color="#ff0000"> Needless to say </font>is another way of saying obviously or everybody knows that." without sounding [[rude]] or [[arrogant]]. 
+
+I like eating lots of cakes, but <font color="#ff0000">needless to say</font>, that will make me fat. 
+
+He's done very badly in his exams, so <font color="#ff0000">needless to say</font>, he won't get into university this year. 
+
+##### also/in addition 
+ 
+ <font color="#ff0000">Also and in addition </font>are used to add extra or further information. 
+ 
+ I'm a very sociable person. I prefer team sports such as basketball and football and<font color="#ff0000"> in addition,</font> I like going to English club with my friends. 
+ 
+ I prefer cycling rather than driving a car because it helps me keep fit;<font color="#ff0000"> in addition</font>, it's better for the environment and it's also cheaper! 
+
+##### besides 
+ 
+ Besides at the beginning of a phrase means <font color="#ff0000">as well as</font>, whereas at the beginning of a clause it means <font color="#ff0000">anyway</font>. 
+ 
+ <font color="#ff0000">Besides</font> watching TV and talking to my friends, I can relax while travelling on the subway. 
+ 
+ I like riding a bike as it's a very convenient way to travel. <font color="#ff0000">Besides</font>, it's cheap and I can't afford a car. 
+
+#### Exercise 1.3: Gap Fill 
+
+ <font color="#ff0000">Write the words and expressions below in the correct spaces.</font>
+
+**in fact** **also** **needless to say** **besides** **actually** **in addition to**
+
+1. **__****_**-, writing emails is a lot cheaper than mailing letters.
+    
+2. I **__****_** prefer to eat at home rather than eat in restaurants.
+    
+3. Writing letters is a more personal way to communicate. **__****_**, I like writing by hand.
+    
+4. I prefer watching TV to going to the cinema because **__****_** being cheaper, it’s **__****_** more comfortable.
+    
+5. Many people think it’s dangerous to travel by aeroplane but **__****_**, it’s probably the safest means of transport available.
+
+![](https://i.imgur.com/UY685ty.png)
+
+
+
+---
+
+
+
+---
+
+## [[Formula 2 ]]
+
+### What do you usually/normally do? 
+
+> [!NOTE]
+> #### Aims 
+> 
+> In this lesson you'll master the Formula for  type questions. 
+> - <font color="#ff0000">What do you usually/normally do?</font>
+>  - What do you do on an average day?
+>   - What is your normal daily routine? 
+>   - Can you describe your typical day? 
+>   - What do you usually do on weekends? 
+
+#### The formula 
 
 When the examiner asks you What do you usually/normally do? type questions, you must: 
+![](https://i.imgur.com/J2ojKKA.png)
 
-Language steps 
+#### Language steps 
 
 1. Use adverbs of frequency liI<e a native speaker to show how frequently or infrequently     you do things.        I often meet up with my, classmates.        I sometimes go shopping. 
 
