@@ -1,3 +1,3 @@
-Cuộc sống như tấm gương, anh cười nó cũng cười, anh khóc nó khóc theo
+Cuộc sống như tấm gương, anh cười nó cũng cười, anh khóc nó khóc theo[^1]
 
-[[Bác Sỹ tốt nhất là chính mình-1]]
+[^1]: [[Bác Sỹ tốt nhất là chính mình-Tập 1]]
