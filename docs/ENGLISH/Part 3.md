@@ -1,3 +1,0 @@
-In Part 3 of the IELTS Speaking test, <span style="background:rgba(240, 167, 216, 0.55)">which lasts 4 5 minutes</span>, you will participate in a discussion with the examiner <span style="background:rgba(240, 167, 216, 0.55)">based on the topic in Part 2</span>. <span style="background:rgba(173, 239, 239, 0.55)">You should express and support your opinion clearly, as well as show your skills of using English in discussing various topics in depth. </span>
-
-Part 3 aims to test the candidate's <span style="background:rgba(205, 244, 105, 0.55)">ability to express personal interpretation</span>s of argumentative issues and to discuss them in detail. 

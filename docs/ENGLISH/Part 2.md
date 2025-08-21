@@ -1,3 +1,0 @@
-Part 2 lasts <span style="background:rgba(160, 204, 246, 0.55)">between 3 and 4 minutes</span>. The examiner will ask you to give <span style="background:rgba(160, 204, 246, 0.55)">a personal monologue about a certain topic for 1-2 minutes</span>. You will be given <span style="background:rgba(160, 204, 246, 0.55)">a cue card</span> on which there are points you should cover. <span style="background:rgba(160, 204, 246, 0.55)">You have 1 minute for preparation;</span> meanwhile, you will be provided with a pen and paper to<span style="background:rgba(240, 167, 216, 0.55)"> jot down</span> some main ideas. 
-
- Part 2 <span style="background:rgba(240, 167, 216, 0.55)">aims to test the ability of speaking in long turns</span>. 

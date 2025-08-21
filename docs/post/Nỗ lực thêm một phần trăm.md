@@ -1,1 +1,0 @@
-"Một phần trăm" cuối cùng mà h<span style="background:rgba(173, 239, 239, 0.55)">ầu hết mọi người để dành</span> lại chính <span style="background:rgba(255, 183, 139, 0.55)">là một phần trăm mà nhà vô địch sẵn sàng đốt cháy</span>
