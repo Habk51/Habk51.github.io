@@ -1,1 +1,1 @@
-Người làm bạn tổn thương xưa nay chưa từng nghĩ tới việc làm bạn trưởng thành. thứ thật sự khiến bạn trưởng thành là nỗi đau khổ và sự ngẫm lại của bạn.
+Người làm bạn tổn thương xưa nay chưa từng nghĩ tới việc làm bạn trưởng thành. thứ thật sự khiến bạn trưởng thành là ==nỗi đau khổ và sự ngẫm lại của bạn==.
