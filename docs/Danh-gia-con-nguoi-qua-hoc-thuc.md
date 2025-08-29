@@ -15,3 +15,7 @@ Phần đông chúng ta thường đánh giá con người theo bằng cấp c�
 -> Người có học thức ==không phải== cần biết thật nhiều, mà cần phải biết những gì mình ==đã biết==.
 
 ==Biết thì biết là mình biết, không biết thì biết là mình không biết, ấy mới thật là biết== 
+
+[^1]
+
+[^1]: [[Toituhoc_thugiang_nguyenduycan_pdf|TÔI TỰ HỌC _NGUYỄN DUY CẦN_THU GIANG]]

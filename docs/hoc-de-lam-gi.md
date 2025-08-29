@@ -15,3 +15,6 @@ category:
 [[Óc hẹp hòi]]- theo Charles Baudoin, " là những đầu óc không thưởng thức nổi những gì mình không ưa thích"
 
 ![](https://i.imgur.com/uuiUmRj.png)
+[^1]
+
+[^1]: [[Toituhoc_thugiang_nguyenduycan_pdf|TÔI TỰ HỌC _NGUYỄN DUY CẦN_THU GIANG]]

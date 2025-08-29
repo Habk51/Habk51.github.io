@@ -19,3 +19,6 @@ Nếu việc đọc sách là bắt đầu, là một người chưa từng đ�
 
 [[Toituhoc_thugiang_nguyenduycan_pdf|TÔI TỰ HỌC _NGUYỄN DUY CẦN_THU GIANG]]
 ![](https://i.imgur.com/P9XiSn6.png)
+[^1]
+
+[^1]: [[Toituhoc_thugiang_nguyenduycan_pdf|TÔI TỰ HỌC _NGUYỄN DUY CẦN_THU GIANG]]

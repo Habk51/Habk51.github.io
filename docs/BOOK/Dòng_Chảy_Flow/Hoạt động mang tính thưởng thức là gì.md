@@ -1,1 +1,0 @@
-<span style="background:rgba(205, 244, 105, 0.55)">Hầu hết các hoạt động mang tính thưởng thức không thuộc tự nhiên; chúng đòi hỏi một nỗ lực mà ban đầu người ta không muốn bỏ ra</span>
